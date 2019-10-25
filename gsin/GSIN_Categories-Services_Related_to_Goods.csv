@@ -1,0 +1,909 @@
+NAFTA Common Classification System Codes,,GSIN,
+Group,Sub-Group,Full GSIN Code,GSIN Description EN
+"J. Maintenance, Repair, Modification, Rebuilding and Installation of Equipment","JO Maintenance, Repair, Modification, Rebuilding and Installation of Goods/Equipment; includes as examples:
+ 1. Textile Finishing, Dying and Printing
+ 2. Welding services not related to Construction. (see CPC 5155 for Construction Welding) ",-,-
+,,J019A,"Maintenance, Repair, Modification, Rebuilding & Installation of Equipment related to Ships"
+,,JD1005,"Guns, Through 30mm - Production Design"
+,,JD1270,Aircraft Gunnery Fire Control Components - Production Design
+,,JD1320,"AMMUNITION, OVER 125MM - PRODUCTION DESIGN"
+,,JD1330,GRENADES - PRODUCTION DESIGN
+,,JD1340,"ROCKETS, ROCKET AMMUNITION AND ROCKET COMPONENTS - PRODUCTION   DESIGN"
+,,JD1345,LAND MINES - PRODUCTION DESIGN
+,,JD1370,PYROTECHNICS - PRODUCTION DESIGN
+,,JD1375,DEMOLITION MATERIALS - PRODUCTION DESIGN
+,,JD1386,"EXPLOSIVE ORDNANCE DISPOSAL TOOLS, UNDERWATER- PRODUCTION DESIGN"
+,,JD1520,"AIRCRAFT, ROTARY WING - PRODUCTION DESIGN"
+,,JD1730,AIRCRAFT GROUND SERVICING EQUIPMENT - PRODUCTION DESIGN
+,,JD1990,"Ships, Small Craft, Pontoons, and Floating Docks - Production Design"
+,,JD2060,COMMERCIAL FISHING EQUIPMENT - PRODUCTION DESIGN
+,,JD2310,PASSENGER MOTOR VEHICLES - PRODUCTION DESIGN
+,,JD2320,"TRUCKS AND TRUCK TRACTORS, WHEELED - PRODUCTION DESIGN"
+,,JD2350,"COMBAT, ASSAULT, AND TACTICAL VEHICLES, TRACKED - PRODUCTION    DESIGN"
+,,JD2510,"VEHICULAR CAB, BODY AND FRAME STRUCTURAL COMPONENTS - PRODUCTION DESIGN"
+,,JD5315,"NAILS, KEYS AND PINS - PRODUCTION DESIGN"
+,,JD5826,"RADIO NAVIGATION EQUIPMENT, (AIRBORNE) - PRODUCTION DESIGN"
+,,JD5831,"INTERCOMMUNICATION AND PUBLIC ADDRESS SYSTEMS, AIRBORNE -       PRODUCTION DESIGN"
+,,JD5840A,"RADAR EQUIPMENT, EXCEPT AIRBORNE, PRODUCTION DESIGN"
+,,JD5865,"ELECTRONIC COUNTERMEASURES, COUNTER-COUNTERMEASURES AND QUICK   REACTION CAPABILITY EQUIPMENT - PRODUCTION DESIGN"
+,,JD5895,MISCELLANEOUS COMMUNICATIONS EQUIPMENT - PRODUCTION DESIGN
+,,JD5905,RESISTORS - PRODUCTION DESIGN
+,,JD5960,ELECTRON TUBES AND ASSOCIATED HARDWARE - PRODUCTION DESIGN
+,,JD6605,NAVIGATIONAL INSTRUMENTS - PRODUCTION DESIGN
+,,JI1610,AIRCRAFT PROPELLERS - INSTALLATION
+,,JI1660,"AIRCRAFT AIR CONDITIONING, HEATING AND PRESSURIZING EQUIPMENT - INSTALLATION"
+,,JI2510,"VEHICULAR CAB, BODY AND FRAME STRUCTURAL COMPONENTS -           INSTALLATION"
+,,JI2530,"VEHICULAR BRAKE, STEERING, AXLE, WHEEL AND TRACK COMPONENTS -   INSTALLATION"
+,,JI2910,"ENGINE FUEL SYSTEM COMPONENTS, NON-AIRCRAFT - INSTALLATION"
+,,JI3740,"PEST, DISEASE AND FROST CONTROL EQUIPMENT - INSTALLATION"
+,,JI4110,REFRIGERATION EQUIPMENT - INSTALLATION
+,,JI4130,REFRIGERATION AND AIR CONDITIONING COMPONENTS - INSTALLATION
+,,JI4240,SAFETY AND RESCUE EQUIPMENT - INSTALLATION
+,,JI4430,"INDUSTRIAL FURNACES, KILNS, LEHRS AND OVENS - INSTALLATION"
+,,JI4520,SPACE HEATING EQUIPMENT AND DOMESTIC WATER HEATERS -INSTALLATION
+,,JI5660,"Fencing, Fences and Gates - Installation"
+,,JI5805,Aircraft (Military) Telephone and Telegraph Equipment - Installation
+,,JI5826,"Radio Navigation Equipment, (Airborne) - Installation"
+,,JI5830,"Intercommunication and Public Address Systems, Except Airborne - Installation"
+,,JI5835,Sound Recording and Reproducing Equipment - Installation
+,,JI5840,"Radar Equipment, Except Airborne - Installation"
+,,JI5845,Underwater Sound Equipment - Installation
+,,JI5895,Aircraft (Military) Miscellaneous Communications Equipment - Installation
+,,JI5985,"Antennas, Waveguides and Related Equipment - Installation"
+,,JI5995,"Cable, Cord, and Wire Assemblies, Communication Equipment - Installation"
+,,JI6350,"Alarm and Signal Systems, Miscellaneous - Installation and Services"
+,,JI6520,"Dental Instruments, Equipment, and Supplies - Installation"
+,,JI6530,"Hospital Furniture, Equipment, Utensils and Supplies - Installation"
+,,JI6610,Flight Instruments - Installation
+,,JI6625,"Electrical and Electronic Properties, Measuring and Testing Instruments - Installation"
+,,JI6650,"Optical Instruments, Test Equipment , Components and Accessories - Installation"
+,,JI6660,Meteorological Instruments and Apparatus - Installation
+,,JI6685,"Pressure, Temperature, and Humidity Measuring and Controlling Instruments - Installation"
+,,JI7010,ADPE System Configuration - Installation
+,,JI7021,"ADP Central Processing Unit (CPU, Computer) Digital - Installation"
+,,JI7025,ADP Input - Output and Storage Devices - Installation
+,,JI7110,Office Furniture - Installation
+,,JI7125,"Cabinets, Lockers, Bins and Shelving - Installation"
+,,JI7220,Floor Coverings - Installation
+,,JI7220A,"Carpet, Installation"
+,,JI7230,"Draperies, Awnings and Shades - Installation"
+,,JI7310,"Food, Cooking Baking and Serving Equipment - Installation"
+,,JI7510,Office Supplies - Installation
+,,JI9330,Plastics Fabricated Materials - Installation
+,,JI9905,Signs and Identification Plates - Installation
+,,JI9930,"Memorials, Cemeterial and Mortiary Equipment and Suppliers - Installation"
+,,JX1005,"Guns, Through 30MM - Repair"
+,,JX1005A,Small Arms and Accessories (Military) - Repair & Overhaul
+,,JX1015,"Guns, 75MM Through 125MM - Repair"
+,,JX1025,"Guns, Over 150MM Through 200MM - Repair"
+,,JX1035,"Guns, Over 300MM - Repair"
+,,JX1055,"Launchers, Rockets and Pyrotechnic - Repair"
+,,JX1095,Miscellaneous Weapons - Repair
+,,JX1220,Fire Control Computing Sights and Devices - Repair
+,,JX1230,Fire Control Systems - Repair
+,,JX1240,Optical Sighting and Ranging Equipment - Repair
+,,JX1250,Fire Control Stabilizing Mechanisms - Repair
+,,JX1265,Fire Control Transmitting and Receiving Equipment (Except Airborne) - Repair
+,,JX1285,"Fire Control Radar Equipment, Except Airborne - Repair"
+,,JX1305,"Ammunition, Through 30MM - Repair"
+,,JX1340,"Rockets, Rocket Ammunition and Rocket Components - Repair"
+,,JX1355,"Torpedo and Components, Inert - Repair"
+,,JX1377,Cartridge and Propellant Actuated Devices and Components - Repair
+,,JX1410,Guided Missiles - Repair
+,,JX1420,Guided Missile Components - Repair
+,,JX1425,"Guided Missile Systems, Complete - Repair"
+,,JX1427,Guided Missile Sub-Systems - Repair
+,,JX1430,Guided Missile Remote Control System - Repair
+,,JX1450,Guided Missile Handling and Servicing - Repair
+,,JX1510,"Aircraft, Fixed Wing - (Military) Repair and Overhaul"
+,,JX1510A,"Aircraft, Fixed Wing - Repair and Overhaul (Military)"
+,,JX1510C,"Aircraft, Fixed Wing - Repair and Overhaul (Civilian)"
+,,JX1510D,"Repainting and Refinishing, Small Aircraft"
+,,JX1520,"Aircraft, Rotary Wing - Repair"
+,,JX1520A,"Aircraft, Rotary Wing (Military) - Repair and Overhaul"
+,,JX1520B,Helicopters (Military) Repair and Overhaul
+,,JX1540,Gliders - Repair
+,,JX1560,Airframe Structural Components (Military) - Repair and Overhaul
+,,JX1610,Aircraft Propellers and Components (Military) - Repair and Overhaul
+,,JX1615,"Helicopter Rotor Blades, Drive, Mechanisms and Components (Military) - Repair and Overhaul"
+,,JX1620,Aircraft Landing Gear Components (Military) - Repair and Overhaul
+,,JX1630,Aircraft Wheel and Brake Systems (Civilian) - Repair
+,,JX1650,"Aircraft Hydraulic, Vacuum and De-icing System Components (Military) - Repair and Overhaul"
+,,JX1660,"Aircraft Air Conditioning, Heating and Pressurizing Equipment (Military) - Repair and Overhaul"
+,,JX1680,Miscellaneous Aircraft Accessories and Components (Military) - Repair and Overhaul
+,,JX1680A,Miscellaneous Aircraft Accessories and Components - Repair and Overhaul
+,,JX1680B,"Seats, Aircraft - Repair and Overhaul"
+,,JX1680C,"Repainting and Refinishing, Aircraft Components"
+,,JX1710,Aircraft Landing Equipment - Repair
+,,JX1720,Aircraft Launching Equipment - Repair
+,,JX1730,Aircraft Ground Servicing Equipment - Repair
+,,JX1740,Airfield Specialized Trucks and Trailers - Repair
+,,JX1910,"Transport Vessels, Passenger and Troop - Repair"
+,,JX1920,Fishing Vessels - Repair
+,,JX1925,Special Service Vessels - Repair
+,,JX1930,"Barges and Lighters, Cargo - Repair"
+,,JX1940,Small Craft - Repair
+,,JX1940AA,Boats (Small) and Canoes - Repair and Overhaul
+,,JX1940C,"Boats, Small - Fibreglass - Repair and Overhaul"
+,,JX1945,Pontoons and Floating Docks - Repair
+,,JX1950,Floating Drydocks - Repair
+,,JX1955,Dredges - Repair
+,,JX1990,"Vessels, Miscellaneous - Repair"
+,,JX1990A,"Ships and Vessels (large) - Repair, Refits and Conversions (including Dry Docking)"
+,,JX1990B,"Ships, and Vessels (small) - Repair, Refits and Conversions (including Dry Docks)"
+,,JX1990C,"Ships and Vessels  (small) - Repair, Refits and Conversions (excluding Dry Docks)"
+,,JX1990D,"Shipboard Machinery & Equipment -Repair, Overhaul, Modification, Maintenance & Calibration"
+,,JX1990DA,"Shipboard Deck Machinery, Not Elsewhere Specified - Repair and Overhaul"
+,,JX1990E,"Shipboard Electrical & Electronic Equipment - Repair, Overhaul, Modification, Maintenence & Calibration"
+,,JX1990F,"Shipboard Miscellaneous Equipment - Repair, Overhaul, Modification and Calibration"
+,,JX1990G,"Vessels, Marine, Miscellaneous - Recompression Chamber- Refit, Repair, Overhaul, Modification and Maintenence"
+,,JX1990H,"Ships and Vessels, Bilge and Tank Pumping and Disposal of  Waste Water and Oil Products"
+,,JX1990HA,"Shipboard Hull (Non Structural) Repair, Overhaul and Maintenance"
+,,JX1990HB,"Shipboard Hull (Structural) - Repair, Overhaul and Maintenance"
+,,JX1990I,"Ships and Vessels - Sand Blasting, Repainting, and Refinishing"
+,,JX1990J,Ships and Vessels Refrigeration and Air Conditioning Equipment - Repair and Overhaul
+,,JX1990K,"Ships and Vessels HVAC - Vent Cleaning, Repair, Overhaul and Maintenance"
+,,JX1990L,"Ships and Vessels Deck Coverings - Repair, Overhaul, and Maintenance"
+,,JX1990M,"Ships and Vessels Hydraulic Systems (including Piping) - Recalibration, Repair, Overhaul, and Maintenance"
+,,JX1990N,Shipboard Piping - Repair and Overhaul (except hydraulic systems)
+,,JX1990P,Ships and Vessels - Asbestos Removal
+,,JX1990R,Ships and Vessels - Non Destructive Testing
+,,JX1990S,Ships and Vessels - Preventative Maintenance - Modifications and Recalibration (incl. Vibration Analysis) - Repair and Overhaul
+,,JX1990T,"Ships and Vessels - Underwater Services - Repair, Overhaul, Modification, and Maintenance"
+,,JX1990U,"Ships and Vessels - Propellor, Propellor Assembly, Repair, Overhaul, Miantenance, or Modification"
+,,JX1990V,Ships and Vessels - Hydroblasting and Tank Cleaning
+,,JX1990W,"Ships, Small Craft, Pontoons, and Floating Docks - Repair"
+,,JX2010,Ship and Boat Propulsion Components - Repair
+,,JX2010A,"Propellers, Marine - Repair and Overhaul"
+,,JX2020,Rigging and Rigging Gear - Repair
+,,JX2030,Deck Machinery - Repair and Overhaul
+,,JX2040,Marine Hardware and Hull Items - Repair
+,,JX2050,Buoys - Repair
+,,JX2060,Commercial Fishing Equipment - Repair
+,,JX2090,Ship and Marine Miscellaneous Equipment - Repair
+,,JX2090AA,"Cabinets and Furniture, Marine, Not Elsewhere Specified - Repair"
+,,JX2210,Locomotives - Repair
+,,JX2240,Locomotive and Rail Car Accessories and Components - Repair
+,,JX2240A,Locomotive Accessories and Components - Repair and Overhaul
+,,JX2250,"Tract Materials, Railroad - Repair"
+,,JX2305,Ground Effect Vehicles - Repair
+,,JX2305A,Ground Effect Vehicles (Civilian) - Repair and Overhaul
+,,JX2305B,Ground Effect Vehicles (Military) - Repair and Overhaul
+,,JX2310,Passenger Motor Vehicles - Repair
+,,JX2310C,Passenger Motor Vehicles - Repair and Overhaul - Ford Motors
+,,JX2310D,Passenger Motor Vehicles - Repair and Overhaul - General Motors
+,,JX2310E,"Buses, Repairs and Service"
+,,JX2310F,"Ambulances, Repair and Overhaul"
+,,JX2320,"Trucks and Truck Tractors, Wheeled - Repair"
+,,JX2320A,"Vehicles, Wheeled, Standard Military Pattern - Repair and Overhaul"
+,,JX2330,Trailers - Repair
+,,JX2330A,"Trailers, Repairs and Service"
+,,JX2340,"Motorcycles, Motor Scooters and Bicycles - Repair"
+,,JX2350,"Combat, Assault, and Tactical Vehicles, Tracked - Repair"
+,,JX2350A,"Combat, Assault and Tactical Vehicles, Tracked, Not Elsewhere Specified - Repair and Overhaul"
+,,JX2350B,Snowmobile - Repair and Overhaul
+,,JX2355,"Combat, Assault, and Tactical Vehicles, Wheeled - Repair"
+,,JX2410,"Tractors, Full-Track, Low Speed - Repair and Overhaul"
+,,JX2420,Tractors Wheeled - Repair and Overhaul
+,,JX2430,"Tractors, Track Laying, High Speed - Repair"
+,,JX2510,"Vehicular Cab, Body and Frame Structural Components - Repair"
+,,JX2510E,"Springs, Leaf and Coil, for Tracked and Wheeled Vehicles, except Ground Effect and Armoured Fighting Vehicles - Repair and Overhaul"
+,,JX2510G,"Vehicular, Windshield Assembly - Repair and Overhaul"
+,,JX2510H,"Vehicular Cab, Body and Frame Structural Components, Repainting and Refinishing"
+,,JX2520,Vehicular Power Transmission Components - Repair
+,,JX2520A,Vehicular Power Transmission Components (Standard Commercial) - Repair and Overhaul
+,,JX2520B,"Vehicular Power Transmission Components, for Tracked and Wheeled Vehicles - Repair and Overhaul"
+,,JX2530,"Vehicular Brake, Steering, Axle, Wheel and Track Components - Repair and Overhaul"
+,,JX2530A,"Vehicular Brake, Steering, Axle and Wheel Components (Standard Commercial) - Repair and Overhaul"
+,,JX2530B,"Vehicular, Brake, Steering, Axle, Wheel and Tracked Components, for Tracked and Wheeled Vehicles, Military Configuration - Repair and Overhaul"
+,,JX2530BB,"Wheel, Solid Rubber, Repair and Overhaul, Armoured Fighting Vehicle, S.M.P."
+,,JX2530BC,"Alignments, Wheel Balancing"
+,,JX2540,Vehicular Furniture and Accessories - Repair
+,,JX2590,"Vehicular Components, Miscellaneous - Repair"
+,,JX2590A,Vehicular Component Vinyl Upholstery - Repair and Overhaul
+,,JX2610,"Tires and Tubes, Pneumatic, except Aircraft - Repair"
+,,JX2610A,"Tires and Tubes, Pneumatic, except Aircraft - Repair and Retreading"
+,,JX2620,"Tires and Tubes, Pneumatic, Aircraft - Repair"
+,,JX2620B,"Tires, Pneumatic, Aircraft, Certification"
+,,JX2640,Tire Rebuilding and Tire and Tube Repair Materials - Repair
+,,JX2805,Gasoline Reciprocating Engines (except Aircraft) and Components - Repair
+,,JX2805A,"Motors, Outboard - Repair"
+,,JX2805AB,"MOTORS, OUTBOARD, MERCURY - REPAIR"
+,,JX2805B,"Engines, Gasoline - Repair and Overhaul (except Aircraft)"
+,,JX2810,"Gasoline Reciprocating Engines, Aircraft Prime Movers and Components-Repair"
+,,JX2815,Diesel Engines and Components - Repair
+,,JX2815AA,"DIESEL ENGINES-REPAIR AND OVERHAUL, MODIFICATION AND MAINTENANCE(EXCEPT MARINE AND NON-SPECIFIC COMPONENTS)"
+,,JX2815AB,"DIESEL ENGINES, REPAIR, OVERHAUL, MODIFICATION AND MAINTENANCE, MARINE AND NON SPECIFIC COMPONENTS"
+,,JX2815B,"Diesel Engines and Components, Armoured Fighting Vehicles, SMP -  Repair and Overhaul"
+,,JX2815C,"Diesel Engines, Repair, Overhaul, Modification and Maintenance"
+,,JX2825,Steam Turbines and Components - Repair and Overhaul
+,,JX2825A,Turbine Components - Repair and Overhaul
+,,JX2835,Gas Turbines and Jet Engines (except Aircraft) and  Components - Repair
+,,JX2835A,"Gas Turbine Overhaul Services, Marine"
+,,JX2835B,Airborne Auxillary and Ground Gas Turbine Units for Aircraft Engines Starting - Repair and Overhaul
+,,JX2840,"Gas Turbines and Jet Engines, Aircraft, Prime Moving and Components (Civilian) - Repair"
+,,JX2840A,"Gas Turbines and Jet Engines, Aircraft, and Components - Repair and Overhaul (Military)"
+,,JX2850,Gasoline Rotary Engines and Components - Repair
+,,JX2895,Miscellaneous Engines and Components - Repair
+,,JX2910,"Engine Fuel System Components, Non-Aircraft - Repair"
+,,JX2910B,"Filter Assemblies, Engine (Marine) - Repair and Overhaul"
+,,JX2910C,Fuel Injector - Repair and Overhaul (Marine)
+,,JX2910D,"Injector Fuel, Armoured Fighting Vehicle, S.M.P.  - Repair and Overhaul"
+,,JX2915,"Engine Fuel System Components, Aircraft and Missile Prime Movers - Repair"
+,,JX2915A,"Engine Fuel System Components, Aircraft (Military) - Repair and Overhaul"
+,,JX2920,"Engine Electrical System Components, Non-Aircraft - Repair and Overhaul"
+,,JX2925,"Engine Electrical System Components, Aircraft Prime Moving-Repair"
+,,JX2930,"Engine Coolant System Components, Non-Aircraft  - Repair and Overhaul"
+,,JX2940,"Engine Air Oil Filters, Strainers and Cleaners, Non-Aircraft - Repair"
+,,JX2990,"Engine Accessories, Miscellaneous, Non-Aircraft - Repair"
+,,JX2990AA,"Mufflers, Exhaust, except Marine Ground Effect and Armoured Fighting Vehicles - Repair and Overhaul"
+,,JX2995,"Miscellaneous Engine Accessories, Aircraft (Military) - Repair and Overhaul"
+,,JX3010,Torque Converters and Speed Changers - Repair
+,,JX3010A,Hydraulic Power System - Repair
+,,JX3020,"Gears, Pulleys, Sprockets and Transmission Chain - Repair and Overhaul"
+,,JX3030,"Belting, Drive Belts, Fan Belts and Accessories - Repair"
+,,JX3040,"Power Transmission Equipment, Miscellaneous - Repair"
+,,JX3110,"Bearings, Antifriction, Unmounted - Repair"
+,,JX3130,"Bearings, Mounted - Repair"
+,,JX3210,Sawmill and Planing Mill Machinery - Repair
+,,JX3220,Woodworking Machines - Repair
+,,JX3405,Saws and Filing Machines - Repair
+,,JX3412,Broaching Machines - Repair
+,,JX3413,Drilling and Tapping Machines - Repair
+,,JX3414,Gear Cutting and Finishing Machines - Repair
+,,JX3415,Grinding Machines - Repair
+,,JX3416,Lathes (Metal Working) - Repair
+,,JX3417,Milling Machines - Repair
+,,JX3419,Machine Tools - Miscellaneous - Repair
+,,JX3431,Electric Arc Welding Equipment - Repair
+,,JX3433,"Gas Welding, Heat Cutting and Metalizing Equipment - Repair"
+,,JX3438,Miscellaneous Welding Equipment - Repair and Overhaul
+,,JX3439,"Welding, Soldering and Brazing Supplies and Accessories, Miscellaneous - Repair"
+,,JX3441,Bending and Forming Machines - Repair
+,,JX3442,"Hydraulic and Pneumatic Presses, Power Driven  - Repair"
+,,JX3443,"Mechanical Presses, Power Driven - Repair"
+,,JX3445,Punching and Shearing Machines - Repair
+,,JX3450,"Machine Tools, Portable - Repair"
+,,JX3455,"Cutting Tools for Machine Tools - Repair, Overhaul, Modification and Maintenance"
+,,JX3456,Cutting and Forming Tools for Secondary Metal Working Machinery - Repair
+,,JX3460,Machine Tool Accessories - Repair
+,,JX3465,"Production Jigs, Fixtures and Templates - Repair"
+,,JX3510,Laundry and Dry Cleaning Equipment - Repair and Overhaul
+,,JX3540,Wrapping and Packaging Machinery - Repair
+,,JX3590,"Service and Trade Equipment, Miscellaneous - Repair"
+,,JX3610,"Printing, Duplicating and Bookbinding Equipment - Repair and Overhaul"
+,,JX3610A,Duplicating Equipment - Repair and Overhaul
+,,JX3610AA,Photocopying Machines and Accessories - Repair
+,,JX3615,Pulp and Paper Industries Machinery - Repair
+,,JX3625,Textile Industries Machinery - Repair
+,,JX3630,Clay and Concrete Products Industries Machinery - Repair
+,,JX3650,Chemical and Pharmaceutical Products Manufacturing Machinery - Repair
+,,JX3655,"Gas Generating and Dispensing Systems, Fixed or Mobile - Repair"
+,,JX3660,Industrial Size Reduction Machinery - Repair
+,,JX3695,Miscellaneous Special Industry Machinery - Repair
+,,JX3710,Soil Preparation Equipment - Repair
+,,JX3720,Harvesting Equipment - Repair
+,,JX3730,"Dairy, Poultry and Livestock Equipment - Repair"
+,,JX3740,"Pest, Disease and Frost Control Equipment - Repair"
+,,JX3750,Gardening Implements and Tools - Repair
+,,JX3750B,"Mowers, Lawn - Repair and Overhaul"
+,,JX3770,"Saddlery, Harness, Whips and Related Animal Furnishings - Repair"
+,,JX3805,Earthmoving and Excavating Equipment - Repair
+,,JX3810,Cranes and Crane Shovels - Repair and Overhaul
+,,JX3815,Crane and Crane-Shovel Attachments - Repair
+,,JX3820,"Mining, Rock Drilling, Earth Boring and Associated Equipment - Repair"
+,,JX3825,Road Clearing and Cleaning Equipment - Repair
+,,JX3825A,Sweepers and Snow Removal Equipment - Repair and Overhaul
+,,JX3825B,"Snowblowers, Self-Propelled - Repair and Overhaul"
+,,JX3830,Truck and Tractor Attachments - Repair
+,,JX3830A,"Blades, Snowplow - Repair"
+,,JX3895,Miscellaneous Construction Equipment - Repair
+,,JX3910,Conveyors - Repair and Overhaul
+,,JX3920,Materials Handling Equipment/Non Self Propelled - Repair
+,,JX3930,"Warehouse Trucks and Tractors, Self-Propelled - Repair and Overhaul"
+,,JX3930A,"Truck, Forklift - Repair and Overhaul"
+,,JX3940,"Block, Tackle, Rigging and Slings - Repair"
+,,JX3950,"Winches, Hoists, Cranes, and Derricks - Repair"
+,,JX3950A,Hoists - Repair and Overhaul
+,,JX3960,Freight Elevators -repair
+,,JX3960A,Elevators - Repair
+,,JX3990,"Materials Handling Equipment, Miscellaneous - Repair"
+,,JX4010,Chain and Wire Rope - Repair
+,,JX4110,Refrigeration Equipment - Repair
+,,JX4110A,Refrigeration Equipment - Repair and Overhaul
+,,JX4110B,"Dispensers, Drinking Water, Mechanically Cooled - Repair and Overhaul"
+,,JX4110BB,"Dispensers, Drinking Water, Mechanically  Cooled - Repair and Overhaul (Marine)"
+,,JX4120,Air Conditioning Equipment - Repair and Overhaul
+,,JX4120A,"Air Conditioning Equipment, Industrial - Repair"
+,,JX4120B,"Chillers, Maintenance"
+,,JX4130,Refrigeration and Air Conditioning Components - Repair
+,,JX4130A,"Heat, Ventilation & Air Conditioning Maintenance"
+,,JX4140,"Fans, Air Circulators and Blower Equipment - Repair"
+,,JX4210,Firefighting Equipment - Repair and Overhaul
+,,JX4210A,"Hydrants, Fire - Repair and Overhaul"
+,,JX4210B,"Truck, Firefighting - Repair"
+,,JX4210C,Firefighting Equipment - Repair and Overhaul (except Marine and Armoured Fighting Vehicles)
+,,JX4210D,"Firefighting Equipment, Marine Systems - Repair, Overhaul and Modification"
+,,JX4220,Marine Life Saving and Diving Equipment - Repair
+,,JX4240,Safety and Rescue Equipment - Repair
+,,JX4310,Compressors and Vacuum Pumps - Repair
+,,JX4310A,"Compressors - Repair, Overhaul, Modification and Maintenance"
+,,JX4310AA,"Compressors - Repair, Overhaul, Modification and Maintenance (except Marine)"
+,,JX4310AB,"Compressors - Repair, Overhaul, Modification and Maintenance (Marine)"
+,,JX4320,Power and Hand Pumps - Repair
+,,JX4320A,"Pumps, Repair, Overhaul, Modification and Maintenance"
+,,JX4320B,"Pump, Hydraulic - Repair"
+,,JX4320C,"Pumps, Submersible or Floating - Repair and Overhaul"
+,,JX4320D,"Pumps, Marine - Repair, Overhaul, Modification and Maintenance"
+,,JX4330,"Centrifugals, Separators and Pressure and Vacuum Filters - Repair"
+,,JX4410,"Industrial Boilers, Heating Plant Control System - Repair and Overhaul/Servicing"
+,,JX4410A,"Boilers, Marine - Repair and Overhaul"
+,,JX4420,Heat Exchangers and Steam Condensers - Repair
+,,JX4430,"Industrial Furnaces, Kilns, Lehrs and Ovens - Repair"
+,,JX4460,Air Purification Equipment - Repair
+,,JX4510,Plumbing Fixtures and Accessories - Repair
+,,JX4520,Space and Water Heating Equipment  - Repair
+,,JX4520AA,"Humidifiers, Industrial - Repairs"
+,,JX4530,Fuel Burning Equipment Units - Repair and Overhaul
+,,JX4530A,Burners Oil - Repair and Overhaul
+,,JX4530AA,"Gas Burning Equipment, Propane - Repair and Overhaul"
+,,JX4540,Waste Disposal Equipment - Repair and Overhaul
+,,JX4610,Water Purification Equipment - Repair
+,,JX4620,"Water Distillation Equipment, Marine and Industrial - Repair"
+,,JX4630,Sewage Treatment Equipment - Repair
+,,JX4710,"Pipes, Tubes, and Rigid Tubing - Repair"
+,,JX4720,Hose and Flexible Tubing - Repair
+,,JX4730,"Fittings and Specialties, Hose, Pipe and Tube - Repair"
+,,JX4810,"Valve, Powered - Repair and Overhaul"
+,,JX4820,"Valves, Non-Powered - Repair and Overhaul"
+,,JX4820AB,"Valves, Hydraulic - Repair"
+,,JX4910,Motor Vehicle Maintenance and Repair Shop Specialized Equipment - Repair
+,,JX4930,Lubricating and Fuel Dispensing Equipment - Repair and Overhaul
+,,JX4931,Fire Control Maintenance and Repair Shop Specialized Equipment - Repair
+,,JX4940,"Maintenance and Repair Shop Specialized Equipment, Miscellaneous - Repair"
+,,JX5110,"Hand Tools, Edged, Non-powered - Repair"
+,,JX5120,"Hand Tools, Nonedged, Nonpowered - Repair"
+,,JX5130,"Hand Tools, Power-Driven - Repair"
+,,JX5133,"Drill Bits, Counterbores and Countersinks, Hand and Machine - Repair"
+,,JX5136,"Taps, Dies and Collets, Hand and Machine - Repair"
+,,JX5210,"Measuring Tools, Craftsmen - Repair"
+,,JX5220,Inspection Gages and Precision Layout Tools - Repair
+,,JX5280,"Sets, Kits and Outfits of Measuring Tools - Repair"
+,,JX5325,Fastening Devices - Repair
+,,JX5330,Packing and Gasket Material - Repair
+,,JX5335,Metal Screening - Repair
+,,JX5340,Miscellaneous Hardware - Repair
+,,JX5360,"Coil, Flat and Wire Springs - Repair"
+,,JX5410,Prefabricated and Portable Buildings - Repair
+,,JX5430,Storage Tanks - Repair
+,,JX5430B,"Tanks, Oil Storage - Repair and Overhaul"
+,,JX5430C,"Repair of Cement Layer (Inside), Drinking Water Tanks (Marine)"
+,,JX5440,Scaffolding Equipment and Concrete Forms - Repair
+,,JX5445,Prefabricated Tower Structures - Repair and Maintenance
+,,JX5450,"Structures, Prefabricated, Miscellaneous - Repair"
+,,JX5520,Millwork - Repair
+,,JX5610,"Mineral Construction Materials, Bulk - Repair"
+,,JX5620,"Tiles, Bricks and Blocks - Repair"
+,,JX5640A,"Insulation, Board, Thermal - Repair"
+,,JX5660,"Fencing, Fences, Gates and Components - Repair"
+,,JX5670,Architectural and Related Metal Products - Repair
+,,JX5680,"Construction Material, Miscellaneous - Repair"
+,,JX5805,Telephones and Telegraph Equipment - Maintenance
+,,JX5805A,"Private Access Branch Exchange/Interconnect Low Capacity Voice and/or Digital Data, 0-250 Lines - Maintenance"
+,,JX5805B,"Private Access Branch Exchange/Interconnect Low Capacity Voice and/or Digital Data, 0-250 Lines - Maintenance"
+,,JX5805BA,"Terminals, Telephone Set - Maintenance"
+,,JX5810,Communications Security Equipment and Components - Repair
+,,JX5811,Other Cryptologic Equipment and Components - Repair
+,,JX5815,Teletype and Facsimile Equipment - Maintenance
+,,JX5821,Aircraft (Military) Radio and Television Communications Equipment - Repair and Overhaul
+,,JX5825,"Radio Navigation Equipment (Military), Except Airborne - Repair and Overhaul"
+,,JX5826,"Radio Navigation Equipment, Airborne - Repair and Overhaul"
+,,JX5830,"Intercommunication and Public Address Systems, except Airborne - Repair and Overhaul"
+,,JX5831,"Intercommunication and Public Address Systems, Airborne - Repair and Overhaul"
+,,JX5835,Sound Recording and Reproducing Equipment - Repair
+,,JX5836,Video Recording and Reproducing Equipment - Repair
+,,JX5840,"Radar Equipment (Military), except Airborne - Repair and Overhaul"
+,,JX5841,Aircraft (Military) Radar Equipment - Repair and Overhaul
+,,JX5845,Underwater Sound Equipment - Repair
+,,JX5845A,"Echo Sounders, Sonar Systems other than ASW"
+,,JX5855,"Night Vision Equipment, Emitted and Reflected Radiation - Repair"
+,,JX5860,"Stimulated Coherent Radiation Devices, Components and Accessories - Repair"
+,,JX5865,"Electronic Countermeasures, Counter-Countermeasures and Quick Reaction Capability Equipment - Repair"
+,,JX5895,Aircraft (Military) Miscellaneous Communications Equipment - Repair and Overhaul
+,,JX5905,Resistors - Repair
+,,JX5910,Capacitors - Repair
+,,JX5915,Filter and Network - Repair
+,,JX5925,Circuit Breakers - Repair
+,,JX5930,Switches - Repair
+,,JX5935,"Connectors, Electrical - Repair"
+,,JX5945,Relays and Solenoids - Repair
+,,JX5950,Coils and Transformers - Repair and Overhaul
+,,JX5960,Electron Tubes and Associated Hardware - Repair
+,,JX5962,"Microcircuits, Electronic - Repair"
+,,JX5963,Electronic Modules - Repair
+,,JX5965,"Headsets, Handsets, Microphones and Speakers - Repair"
+,,JX5975,Electrical Hardware and Supplies - Repair
+,,JX5985,"Antennas, Waveguides and Related Equipment - Repair and Overhaul"
+,,JX5990,Synchros and Resolvers - Repair
+,,JX5995,"Cable, Cord, and Wire Assemblies, Communication Equipment - Repair"
+,,JX5998,"Electrical and Electronic Assemblies, Boards, Cards, and Associated Hardware - Repair"
+,,JX5999,Miscellaneous Electrical and Electronic Components - Repair and Overhaul
+,,JX6020,Fiber Optic Cable Assemblies and Harnesses - Repair
+,,JX6030,Fiber Optic Devices - Repair
+,,JX6070,Fiber Optic Accessories and Supplies - Repair
+,,JX6100,"Electric Wire, and Power and Distribution Equipment  - Repair"
+,,JX6100A,Electrical Power and Distribution Equipment - Repair and Overhaul
+,,JX6105,"Motors, Electrical - Repair and Overhaul"
+,,JX6110,Electrical Control Equipment - Repair
+,,JX6115,"Generators and Generator Sets, Electrical - Repair"
+,,JX6115A,"Generators and Generator Sets, Auxiliary Aircraft Generators Only - Repair and Overhaul"
+,,JX6115G,"Generators and Alternators, except Marine, Armoured Fighting Vehicles and Aircraft - Armature Rewinding Service"
+,,JX6120,"Transformers, Distribution and Power Station - Repair"
+,,JX6125,"Converters, Electrical, Rotating - Repairs"
+,,JX6130,"Converters, Electrical, Nonrotating - Repair and Overhaul"
+,,JX6130B,"Uninterruptible Power Supply (U.P.S.) - Single Phase, 2KVA and above - Repair"
+,,JX6135,"Batteries, Primary - Repair"
+,,JX6140,"Batteries, Rechargeable - Repair"
+,,JX6145,"Wire and Cable, Electrical - Repair"
+,,JX6150,Miscellaneous Electric Power and Distribution Equipment - Repair
+,,JX6210,Indoor and Outdoor Electric Lighting Fixtures - Repair
+,,JX6230,Electric Portable and Hand Lighting Equipment - Repair
+,,JX6250,"Ballasts, Lampholders, and Starters - Repair"
+,,JX6300,Alarm and Signal Systems - Repair
+,,JX6310,Traffic and Transit Signal Systems - Repair
+,,JX6320,Shipboard Alarm and Signal Systems - Repair
+,,JX6340,Aircraft Alarm and Signal Systems (Civilian) - Repair
+,,JX6350,"Alarm and Signal Systems, Miscellaneous - Repair, Overhaul and Maintenance"
+,,JX6350A,"Alarm and Signal Systems, Repair and Overhaul"
+,,JX6350AA,Fire Alarm Systems - Repair and Overhaul
+,,JX6350D,"Sirens - Repair, Overhaul and Maintenance"
+,,JX6515,"Medical and Surgical Instruments, Equipment and Supplies - Repair"
+,,JX6515A,Medical Equipment Surgical/Diagnostic and Accessories - Repair and Overhaul
+,,JX6520,"Dental Instruments, Equipment and Supplies - Repair"
+,,JX6525,X-Ray Equipment - Repair
+,,JX6530,"Hospital Furniture, Equipment, Utensils and Supplies - Repair"
+,,JX6530D,Sterilizer - Repair
+,,JX6530E,"Wheelchair, Folding/Nonfolding - Repair and Overhaul"
+,,JX6532,Hospital and Surgical Clothing and Related Special Purpose Items - Repair
+,,JX6545,"Replenishable Field Medical Sets, Kits, and Outfits"
+,,JX6605,Aircraft (Military) Navigational Instruments - Repair and Overhaul
+,,JX6610,Flight Instruments (Civilian) - Repair
+,,JX6625,"Electrical and Electronic Properties, Measuring and Testing Instruments - Repair and Overhaul"
+,,JX6630,Chemical Analysis Instruments - Repair and Overhaul
+,,JX6635,Physical Properties Testing and Inspection Equipment - Repair and Overhaul
+,,JX6635C,"Mechanical Test Equipment, Calibration Services- Repair"
+,,JX6635D,"Electrical and Electronic Test Equipment, Calibration Services -  Repair"
+,,JX6636,Environmental Chambers and Related Equipment - Repair and Overhaul
+,,JX6640,Laboratory Equipment and Supplies - Repair
+,,JX6645,Time Measuring Instruments - Repair
+,,JX6650,"Optical Instruments, Test Equipment, Components and Accessories - Repair and Overhaul"
+,,JX6655,Geophysical Instruments - Repair
+,,JX6655A,Oceanographic Instruments - Repair
+,,JX6660,Meteorological Instruments and Apparatus - Repair and Overhaul
+,,JX6665,Hazard-Detecting Instruments and Apparatus - Repair and Overhaul
+,,JX6670,Scales and Balances - Repair
+,,JX6670A,Scales - Repair and Overhaul
+,,JX6675,"Drafting, Surveying and Mapping Instruments - Repair"
+,,JX6675A,Surveying Equipment or Instruments - Repair and Overhaul
+,,JX6675B,Plotters - Repair and Overhaul
+,,JX6680,"Liquid and Gas Flow, Liquid Level and Mechanical Motion Measuring Instruments - Repair"
+,,JX6680A,"Liquid and Gas Flow, Liquid Level and Mechanical Motion Measuring Instruments, Aeronautical Only - Repair and Overhaul"
+,,JX6685,"Pressure, Temperature and Humidity Measuring and Controlling Instruments - Repair"
+,,JX6685A,"Controls, Pressure/Temperature, Recording - Repair and Overhaul"
+,,JX6685B,"Pressure, Temperature and Humidity Measuring and Controlling Instruments, Aeronautical Only - Repair and Overhaul"
+,,JX6695,Combination and Miscellaneous Instruments - Repair
+,,JX6710,"Cameras, Motion Picture - Repair"
+,,JX6720,"Cameras, Still Picture - Repair"
+,,JX6730,Photographic Projection Equipment - Rental
+,,JX6740,Photographic Developing and Finishing Equipment - Repair
+,,JX6750,Photographic Supplies - Repair
+,,JX6760,Photographic Equipment and Accessories - Repair and Overhaul
+,,JX6780,"Photographic Sets, Kits and Outfits - Repair"
+,,JX6910,Training Aids - Repair
+,,JX6910A,"Training Aids, Aircraft (except Electrical and Electronic) - Repair and Overhaul"
+,,JX6910B,Training Aids - Operation & Maintenance
+,,JX6920,Armament Training Devices - Repair
+,,JX6930,Operation Training Devices - Repair
+,,JX6930A,"Operational Training Devices, Aeronautical - Repair and Overhaul"
+,,JX7010,"Automatic Data Processing Equipment, System Configuration - Repair"
+,,JX7010A,"Computers, Digital Systems, Large Scale (May Include Operating System Software) - Maintenance"
+,,JX7010AA,"Computers, Digital Systems, Large Scale (May Include Operating Systems Software) other than IBM Plug Compatible - Maintenance"
+,,JX7010AB,"Computers, Digital Systems, Mini/Super Micro (May Include Operating System Software) - Maintenance"
+,,JX7010AC,"Computers, Digital Systems, Mini/Super Micro (May Include Operating System Software) Other Than IBM Plug Compatible - Maintenance"
+,,JX7010AD,"Computers, Digital Systems, Micro - Repair and Overhaul"
+,,JX7010AE,"Computers, Digital Systems, Personal/Portable (May Include Operating System Software - Maintenance"
+,,JX7010AG,"Computers, Digital Systems, Personal/Portable (May Include Operating System Software) other than IBM Compatible - Maintenance"
+,,JX7010AH,"Computers, Digital Systems, Special Purpose, Includes Artificial Intelligence, Array, Parallel, Vector etc. - Maintenance"
+,,JX7010B,"Computers, Digital Turnkey Systems, Large Scale (Includes Application Software) - Maintenance"
+,,JX7010BA,"Computers, Digital Turnkey Systems, Mini/Super Micro (Includes Application Software) - Maintenance"
+,,JX7010BB,"Computers, Digital Turnkey Systems, Personal/Portable (Includes Application Software - Maintenance"
+,,JX7010C,"Computers, Miscellaneous Systems, Analog Computer (Including Turnkey) - Maintenance"
+,,JX7010CA,"Computers, Miscellaneous Systems, Hybrid Computer (Including Turnkey) - Maintenance"
+,,JX7020,"ADP Central Processing Unit (CPU, Computer) Analog - Maintenance"
+,,JX7021,"ADP Central Processing Unit (CPU,Computer) Digital - Maintenance"
+,,JX7021A,"Computer, CPU, Digital - Large Scale - IBM Plug Compatible - Maintenance"
+,,JX7021AD,"Computers CPU, Digital, Micro - Maintenance"
+,,JX7022,"ADP Central Processing Unit (CPU, Computer) Hybrid - Maintenance"
+,,JX7025,ADP Input-Output and Storage Devices - Maintenance
+,,JX7025A,Computer Graphics Equipment N.E.S. - Maintenance
+,,JX7025AB,"Data Acquisition and Collection Equipment, On Line - Maintenance"
+,,JX7025AD,"Security Devices, Encryption, etc. - Maintenance"
+,,JX7025AJ,"Printers, Page, Laser - Maintenance"
+,,JX7025B,"Printers, Page, Other (Ion, Electrostatic, etc.) - Maintenance"
+,,JX7025BA,"Printers, Line (Band, Chain, Drum, Train, etc.) - Maintenance"
+,,JX7025BI,Readers/Punches - Card - Maintenance
+,,JX7025BJ,Readers/Punches - Paper Tape - Maintenance
+,,JX7025BM,"Plotters, On Line - Maintenance"
+,,JX7025BO,"Monitor, CRT, Microcomputer etc. - Maintenance"
+,,JX7025BU,"Input/Output Devices, Miscellaneous, Used, EDP - Maintenance"
+,,JX7025CA,Controller/Processors - Maintenance
+,,JX7025CC,Modems - Maintenance
+,,JX7025EA,"Local Area Networks, Systems and Components - Maintenance"
+,,JX7030,ADP Software Maintenance - Other than Microcomputer
+,,JX7035AB,"Interfaces, Special Purpose (for Process Control, Analog etc.) - Maintenance"
+,,JX7035AC,"Switching Devices (Data, Modems, Peripherals, Video etc.) - Maintenance"
+,,JX7035AF,"Converters, A/D and D/A - Maintenance"
+,,JX7035AK,"Performance Monitors, Communication Devices, EDP - Maintenance"
+,,JX7035AM,Plotters (Stand Alone) - Maintenance
+,,JX7042,Mini and Micro Computer Control Devices - Repair
+,,JX7105,Household Furniture - Repair
+,,JX7105B,"Furniture, Upholstered - Repairs"
+,,JX7110,"Furniture, Office-Refinishing and Repair"
+,,JX7125,"Cabinets, Lockers, Bins and Shelving - Repair"
+,,JX7195,Miscellaneous Furniture and Fixtures - Recovering
+,,JX7195A,"Furniture, Auditorium Seating, Recovering"
+,,JX7195B,"Partitions, Screen Systems - Repair"
+,,JX7220,Floor Coverings - Repair
+,,JX7230,"Draperies, Awnings and Shades - Repair"
+,,JX7240,Household and Commercial Utility Containers - Repair
+,,JX7290,"Household and Commercial Furnishings and Appliances, Miscellaneous - Repair"
+,,JX7290B,"Miscellaneous Household and Commercial Appliances, Electrical - Repair"
+,,JX7310AA,"Galley Equipment, except Aircraft - Repair"
+,,JX7310C,"Food Cooking, Baking and Serving Equipment, Electrical - Repair"
+,,JX7320,Kitchen Equipment and Appliances - Repair and Overhaul
+,,JX7435,Office Information System Equipment - Maintenance
+,,JX7450,Office Type Sound Recording and Reproducing Machines - Maintenance
+,,JX7460,Visible Record Equipment - Repair and Overhaul
+,,JX7490,Miscellaneous Office Machines - Repair and Overhaul
+,,JX7830,Recreational and Gymnastic Equipment - Repair
+,,JX7830B,Recreational Bowling Alleys - Repair
+,,JX7910,Floor Polishers and Vacuum Cleaning Equipment - Repair
+,,JX7910A,"Vacuum Cleaners, Domestic, Repair and Overhaul"
+,,JX7920,"Brooms, Brushes, Mops and Sponges - Repair"
+,,JX8115,"Boxes, Cartons and Crates - Repair"
+,,JX8120,Commercial and Industrial Gas Cylinders - Repair
+,,JX8120A,"Cylinders, Compressed Gases (Empty) Repair and Overhaul"
+,,JX8135,Packaging and Packing Bulk Materials - Repair
+,,JX8145,Specialized Shipping and Storage Containers - Repair
+,,JX8340,"Tents and Tarpaulins, Repairs"
+,,JX8415,"Clothing, Special Purpose - Repair"
+,,JX8430,"Footwear, Men`s - Repair"
+,,JX8440,"Hosiery, Handwear and Clothing Accessories, Men`s - Repair"
+,,JX8460,"Luggage, Repairs"
+,,JX8465,Individual Equipment - Repair
+,,JX8470,"Helmet, Repairs"
+,,JX8530A,"Razor, Electric - Repair"
+,,JX9150,"Oils and Greases, Cutting, Lubricating, and Hydraulic"
+,,JX9330,Plastics Fabricated Materials - Repair
+,,JX9330A,"Plastic Materials, Fiberglass Reinforced, Repairs"
+,,JX9350,Refractories and Fire Surfacing Materials - Repair
+,,JX9505,"Wire, Nonelectrical - Repair"
+,,JX9515,"Plate, Sheet, Strip, Foil and Leaf - Repair"
+,,JX9905,Signs and Identification Plates - Repair
+,,JX9930,"Memorials, Cemeterial and Mortuary Equipment and Supplies - Repair"
+,,JX9930A,"Monuments, Memorials and Cenotaphs - Repair and Overhaul"
+,,JX9999,Miscellaneous Items - Repairs
+W. Lease or Rental of Equipment,WO Lease or Rental of Equipment ,-,-
+,,WL1440,"LAUNCHERS, GUIDED MISSILE - LEASING"
+,,WL1940,SMALL CRAFT - LEASING
+,,WL1945,PONTOONS AND FLOATING DOCKS - LEASING
+,,WL1990,"Vessels, Miscellaneous - Leasing"
+,,WL2010,SHIP AND BOAT PROPULSION COMPONENTS - LEASING
+,,WL2305,GROUND EFFECT VEHICLES - LEASING
+,,WL2310,PASSENGER MOTOR VEHICLES - LEASING
+,,WL2310L,PASSENGER MOTOR VEHICLES (BUSES AND AMBULANCES) - LEASING (OVER 90 DAYS)
+,,WL2320,"TRUCKS AND TRUCK TRACTORS, WHEELED - LEASING"
+,,WL2320AA,"TRUCK, LIGHT, UTILITY, 4 X 4, LEASING - OVER 90 DAYS"
+,,WL2320AB,"TRUCK, LIGHT, UTILITY, 4 X 4, LONG, LEASING - OVER 90 DAYS"
+,,WL2320D,"TRUCK, LIGHT, PICK-UP, EXTENDED CAB, 5500 LB GVWR, LEASING -    OVER 90 DAYS"
+,,WL2320DA,"TRUCK, LIGHT, CREW CAB, 8100 LB GVWR, LEASING - OVER 90 DAYS"
+,,WL2320K,"TRUCKS, MISCELLANEOUS - LEASING (OVER 90 DAYS)"
+,,WL2330,TRAILERS - LEASING
+,,WL2340,"MOTORCYCLES, MOTOR SCOOTERS AND BICYCLES - LEASING"
+,,WL2410,"TRACTORS, FULL TRACK, LOW SPEED, LEASING OF EQUIPMENT"
+,,WL2420,"TRACTORS, WHEELED - LEASING"
+,,WL2610,"TIRES AND TUBES, PNEUMATIC, EXCEPT AIRCRAFT - LEASING"
+,,WL2805,GASOLINE RECIPROCATING ENGINES (EXCEPT AIRCRAFT) AND COMPONENTS - LEASING
+,,WL3405,SAWS AND FILING MACHINES - LEASING
+,,WL3431,ELECTRIC ARC WELDING EQUIPMENT - LEASING
+,,WL3438,"WELDING EQUIPMENT, MISCELLANEOUS - LEASING"
+,,WL3439,"WELDING, SOLDERING AND BRAZING SUPPLIES AND ACCESSORIES,        MISCELLANEOUS - LEASING"
+,,WL3445,PUNCHING AND SHEARING MACHINES - LEASING
+,,WL3510,LAUNDRY AND DRY CLEANING EQUIPMENT - LEASING
+,,WL3610,"PRINTING, DUPLICATING AND BOOKBINDING EQUIPMENT, LEASING"
+,,WL3610AA,PHOTOCOPYING MACHINES - LEASE
+,,WL3610AB,"Photocopying Machines, N.E.S. - Lease"
+,,WL3610AD,"PHOTOCOPYING MACHINES, LIBRARY BOOK - LEASE"
+,,WL3610AE,"PHOTOCOPYING MACHINES, ENGINEERING - LEASE"
+,,WL3610AF,"PHOTOCOPYING MACHINES, LASER, INTELLIGENT COPIER - LEASE"
+,,WL3610B,"PHOTOCOPYING MACHINES, FULL COLOUR - LEASE"
+,,WL3610C,"Digital Photocopiers, Printers and Multifunctional Devices (MFDs) - Lease"
+,,WL3650,CHEMICAL AND PHARMACEUTICAL PRODUCTS MANUFACTURING MACHINERY -  LEASING
+,,WL3660,INDUSTRIAL SIZE REDUCTION MACHINERY - LEASING
+,,WL3720,HARVESTING EQUIPMENT - LEASING
+,,WL3805,EARTHMOVING AND EXCAVATING EQUIPMENT - LEASING
+,,WL3810,CRANES AND CRANE SHOVELS - LEASING
+,,WL3820,"MINING, ROCK DRILLING, EARTH BORING AND ASSOCIATED EQUIPMENT -  LEASING"
+,,WL3895,MISCELLANEOUS CONSTRUCTION EQUIPMENT - LEASING
+,,WL3910,CONVEYORS - LEASING
+,,WL3920,MATERIALS HANDLING EQUIPMENT/NON SELF PROPELLED - LEASING
+,,WL3930,"WAREHOUSE TRUCKS AND TRACTORS, SELF-PROPELLED - LEASING"
+,,WL3990,"MATERIALS HANDLING EQUIPMENT, MISCELLANEOUS - LEASING"
+,,WL4110,REFRIGERATION EQUIPMENT - LEASING
+,,WL4120,AIR CONDITIONING EQUIPMENT - LEASING
+,,WL4310,COMPRESSORS AND VACUUM PUMPS - LEASING
+,,WL4520,SPACE HEATING EQUIPMENT AND DOMESTIC WATER HEATER - LEASING
+,,WL5180,"SETS, KITS, AND OUTFITS OF HAND TOOLS - LEASING"
+,,WL5410,PREFABRICATED AND PORTABLE BUILDINGS - LEASING
+,,WL5440,SCAFFOLDING EQUIPMENT AND CONCRETE FORMS - LEASING
+,,WL5805,TELEPHONE AND TELEGRAPH EQUIPMENT - LEASE
+,,WL5810,COMMUNICATIONS SECURITY EQUIPMENT AND COMPONENTS - LEASING
+,,WL5820,"RADIO AND TELEVISION COMMUNICATIONS EQUIPMENT, EXCEPT AIRBORNE - LEASING"
+,,WL5825,"RADIO NAVIGATION EQUIPMENT, EXCEPT AIRBORNE - LEASING"
+,,WL5830,"INTERCOMMUNICATION AND PUBLIC ADDRESS SYSTEMS, EXCEPT AIRBORNE - LEASING"
+,,WL5835,SOUND RECORDING AND REPRODUCING EQUIPMENT - LEASE
+,,WL5836,VIDEO RECORDING AND REPRODUCING EQUIPMENT - LEASING
+,,WL5845,UNDERWATER SOUND EQUIPMENT - LEASING
+,,WL5850,VISIBLE AND INVISIBLE LIGHT COMMUNICATION EQUIPMENT - LEASING
+,,WL5985,"ANTENNAS, WAVEGUIDES AND RELATED EQUIPMENT - LEASING"
+,,WL5999,MISCELLANEOUS ELECTRICAL AND ELECTRONIC COMPONENTS - LEASING
+,,WL6105,"MOTORS, ELECTRICAL - LEASING"
+,,WL6115,"GENERATORS AND GENERATOR SETS, ELECTRICAL - LEASING"
+,,WL6310,TRAFFIC AND TRANSIT SIGNAL SYSTEMS - LEASING
+,,WL6515,"MEDICAL AND SURGICAL INSTRUMENTS, EQUIPMENT AND SUPPLIES -      LEASING"
+,,WL6605,NAVIGATIONAL INSTRUMENTS - LEASING
+,,WL6610,FLIGHT INSTRUMENTS - LEASING
+,,WL6625,ELECTRICAL AND ELECTRONIC PROPERTIES MEASURING AND TESTING      INSTRUMENTS - LEASING
+,,WL6640,LABORATORY EQUIPMENT AND SUPPLIES - LEASING
+,,WL6645,TIME MEASURING INSTRUMENTS - LEASING
+,,WL6655,Geophyscial Instruments - Lease
+,,WL6660,METEOROLOGICAL INSTRUMENTS - LEASING
+,,WL6670,SCALES AND BALANCES - LEASING
+,,WL6675,"DRAFTING, SURVEYING AND MAPPING INSTRUMENTS - LEASING"
+,,WL6685,"PRESSURE, TEMPERATURE, AND HUMIDITY MEASURING AND CONTROLLING   INSTRUMENTS - LEASING"
+,,WL6695,COMBINATION AND MISCELLANEOUS INSTRUMENTS - LEASING
+,,WL6710,"CAMERAS, MOTION PICTURE - LEASING"
+,,WL6730,PHOTOGRAPHIC PROJECTION EQUIPMENT - LEASING
+,,WL6760,PHOTOGRAPHIC EQUIPMENT AND ACCESSORIES - LEASING
+,,WL6770,"FILM, PROCESSED - LEASING"
+,,WL7010,ADPE SYSTEM CONFIGURATION - LEASE
+,,WL7010AB,"COMPUTERS, DIGITAL SYSTEMS, MINI/SUPER MICRO (MAY INCLUDE OPERATING SYSTEM SOFTWARE) IBM PLUG COMPATIBLE - LEASE"
+,,WL7010BA,"COMPUTERS, DIGITAL TURNKEY SYSTEMS, MINI/SUPER MICRO (INCLUDES  APPLICATION SOFTWARE) - LEASE"
+,,WL7010BB,"COMPUTERS, DIGITAL TURNKEY SYSTEMS, PERSONAL/PORTABLE (INCLUDES APPLICATION SOFTWARE) - LEASE"
+,,WL7020,"ADP CENTRAL PROCESSING UNIT (CPU, COMPUTER) ANALOG - LEASE"
+,,WL7021,"ADP CENTRAL PROCESSING UNIT (CPU,COMPUTER) DIGITAL - LEASE"
+,,WL7021AC,"COMPUTER, CPU, DIGITAL MINI/SUPER MICRO - OTHER THAN IBM PLUG   COMPATIBLE - LEASE"
+,,WL7025,ADP INPUT-OUTPUT AND STORAGE DEVICES - LEASING OF EQUIPMENT
+,,WL7025AC,DIGITIZERS - LEASE
+,,WL7025AJ,"PRINTERS, PAGE, LASER - LEASE"
+,,WL7025CA,CONTROLLER/PROCESSORS - LEASE
+,,WL7025DE,"TERMINALS, DISPLAY, CLUSTER - OTHER THAN IBM PLUG COMPATIBLE -  LEASE"
+,,WL7045,AUTOMATIC DATA PROCESSING SUPPLIES - LEASE
+,,WL7050,ADP COMPONENTS - LEASE
+,,WL7195,MISCELLANEOUS FURNITURE AND FIXTURES - LEASE
+,,WL7240,HOUSEHOLD AND COMMERCIAL UTILITY CONTAINERS - LEASING
+,,WL7290,"HOUSEHOLD AND COMMERCIAL FURNISHINGS AND APPLIANCES,            MISCELLANEOUS - LEASING"
+,,WL7460,VISIBLE RECORD EQUIPMENT - LEASE
+,,WL7490,MISCELLANEOUS OFFICE MACHINES - LEASE
+,,WL7520,OFFICE DEVICES AND ACCESSORIES - LEASE
+,,WL7730,"PHONOGRAPHS, RADIOS AND TELEVISION SETS, HOME TYPE - LEASING"
+,,WL7920,"BROOMS, BRUSHES, MOPS AND SPONGES - LEASING"
+,,WL8120,COMMERCIAL AND INDUSTRIAL GAS CYLINDERS - LEASING
+,,WL8145,SPECIALIZED SHIPPING AND STORAGE CONTAINERS - LEASING
+,,WL9905,Signs and Identification Plates - Leasing
+,,WL9999,MISCELLANEOUS ITEMS - LEASING
+,,WR1398,SPECIALIZED AMMUNITION HANDLING AND SERVICING EQUIPMENT - RENTAL
+,,WR1730,AIRCRAFT GROUND SERVICING EQUIPMENT - RENTAL
+,,WR1920,FISHING VESSELS - RENTAL
+,,WR1940,SMALL CRAFT - RENTAL
+,,WR1990,"Ships, Small Craft, Pontoons, and Floating Docks - Rental"
+,,WR2010,SHIP AND BOAT PROPULSION COMPONENTS - RENTAL
+,,WR2030,DECK MACHINERY - RENTAL
+,,WR2060,COMMERCIAL FISHING EQUIPMENT - RENTAL
+,,WR2090,SHIP AND MARINE MISCELLANEOUS EQUIPMENT - RENTAL
+,,WR2240,LOCOMOTIVE AND RAIL CAR ACCESSORIES AND COMPONENTS - RENTAL
+,,WR2305,GROUND EFFECT VEHICLES - RENTAL
+,,WR2310,PASSENGER MOTOR VEHICLES - RENTAL
+,,WR2310K,PASSENGER MOTOR VEHICLES (BUSES AND AMBULANCES) - RENTAL (UNDER 90 DAYS)
+,,WR2320,"TRUCKS AND TRUCK TRACTORS, WHEELED - RENTAL"
+,,WR2320A,"TRUCK, DUMP, DIESEL, TO 27,499 GVWR - RENTAL"
+,,WR2320AB,"TRUCK, DUMP, DIESEL, 27,500 GVWR AND UP - RENTAL"
+,,WR2320B,"TRUCK, REFRIGERATION, GASOLINE POWERED - RENTAL"
+,,WR2320BA,"TRUCK, TRACTOR, GASOLINE POWERED - RENTAL"
+,,WR2320C,"TRUCK, LIGHT, PERSONNEL CARRIER 6,000 LB GVWR - RENTAL (UNDER   90 DAYS)"
+,,WR2320CA,"TRUCK, LIGHT, UTILITY 4 X 4, RENTAL - (UNDER 90 DAYS)"
+,,WR2320D,"TRUCK, LIGHT, PERSONNEL CARRIER, 7,500 LB GVWR - RENTAL (UNDER  90 DAYS)"
+,,WR2320DA,"TRUCK, LIGHT, PASSENGER VAN, GARAGEABLE, GMV SPEC M60 - RENTAL (UNDER 90 DAYS)"
+,,WR2320E,"TRUCK, LIGHT, PICK-UP, 5,300 LB GVWR - RENTAL (UNDER 90 DAYS)"
+,,WR2320FA,"TRUCK, LIGHT, CREW CAB, 8100 LB GVWR, RENTAL - UNDER 90 DAYS"
+,,WR2320G,"TRUCK, LIGHT, CARGO VAN, GARAGEABLE, GMV SPEC T00 - RENTAL (UNDER 90 DAYS)"
+,,WR2320L,"TRUCK, HEAVY, 30,000 TO 60,000 LB GVWR - RENTAL (UNDER 90 DAYS)"
+,,WR2320M,"TRUCKS, MISCELLANEOUS - RENTAL (UNDER 90 DAYS)"
+,,WR2330,TRAILERS - RENTAL
+,,WR2330B,"TRAILER, HOUSE - RENTAL"
+,,WR2330C,"TRAILER, LOW BED - RENTAL"
+,,WR2340,"MOTORCYCLES, MOTOR SCOOTERS AND BICYCLES - RENTAL"
+,,WR2350,"COMBAT, ASSAULT, AND TACTICAL VEHICLES, TRACKED - RENTAL"
+,,WR2350A,SNOWMOBILE - RENTAL
+,,WR2410,"TRACTORS, FULL-TRACK, LOW SPEED - RENTAL"
+,,WR2420,TRACTORS WHEELED - RENTAL
+,,WR2430,"TRACTORS, TRACK LAYING, HIGH SPEED - RENTAL"
+,,WR2510,"VEHICULAR CAB, BODY AND FRAME STRUCTURAL COMPONENTS - RENTAL"
+,,WR2590,"VEHICULAR COMPONENTS, MISCELLANEOUS - RENTAL"
+,,WR2610,"TIRES AND TUBES, PNEUMATIC, EXCEPT AIRCRAFT - RENTAL"
+,,WR2805,GASOLINE RECIPROCATING ENGINES (EXCEPT AIRCRAFT) AND COMPONENTS - RENTAL
+,,WR2815,DIESEL ENGINES AND COMPONENTS - RENTAL
+,,WR2820,"STEAM ENGINES, RECIPROCATING AND COMPONENTS - RENTAL"
+,,WR2835,GAS TURBINES AND JET ENGINES (EXCEPT AIRCRAFT) AND COMPONENTS - RENTAL
+,,WR2895,MISCELLANEOUS ENGINES AND COMPONENTS - RENTAL
+,,WR3030,"BELTING, DRIVE BELTS, FAN BELTS AND ACCESSORIES - RENTAL"
+,,WR3210,SAWMILL AND PLANING MILL MACHINERY - RENTAL
+,,WR3230,TOOLS AND ATTACHMENTS FOR WOODWORKING MACHINERY - RENTAL
+,,WR3419,"MACHINE TOOLS, MISCELLANEOUS - RENTAL"
+,,WR3431,ELECTRIC ARC WELDING EQUIPMENT - RENTAL
+,,WR3433,"GAS WELDING, HEAT CUTTING, AND METALIZING EQUIPMENT - RENTAL"
+,,WR3438,"WELDING EQUIPMENT, MISCELLANEOUS - RENTAL"
+,,WR3439,"WELDING, SOLDERING AND BRAZING SUPPLIES AND ACCESSORIES,        MISCELLANEOUS - RENTAL"
+,,WR3510,LAUNDRY AND DRY CLEANING EQUIPMENT - RENTAL
+,,WR3590,"SERVICE AND TRADE EQUIPMENT, MISCELLANEOUS - RENTAL"
+,,WR3610,"PRINTING, DUPLICATING AND BOOKBINDING EQUIPMENT - RENTAL"
+,,WR3610A,"COPYING MACHINE, DIAZO PROCESS (WHITE PRINTER) - RENTAL"
+,,WR3610AA,PHOTOCOPYING MACHINES AND ACCESSORIES - RENTAL
+,,WR3610AB,"Photocopying Machine, N.E.S. - Rent"
+,,WR3610AC,PHOTOCOPIER CONTROL/AUDIT SYSTEM - RENT
+,,WR3611,INDUSTRIAL MARKING MACHINES - RENTAL
+,,WR3615,PULP AND PAPER INDUSTRIES MACHINERY - RENTAL
+,,WR3620,RUBBER AND PLASTICS WORKING MACHINERY - RENTAL
+,,WR3625,TEXTILE INDUSTRIES MACHINERY - RENTAL
+,,WR3630,CLAY AND CONCRETE PRODUCTS INDUSTRIES MACHINERY - RENTAL
+,,WR3695,MISCELLANEOUS SPECIAL INDUSTRY MACHINERY - RENTAL
+,,WR3710,SOIL PREPARATION EQUIPMENT - RENTAL
+,,WR3720,HARVESTING EQUIPMENT - RENTAL
+,,WR3750,GARDENING IMPLEMENTS AND TOOLS - RENTAL
+,,WR3805,EARTHMOVING AND EXCAVATING EQUIPMENT - RENTAL
+,,WR3805B,"EXCAVATOR, HYDRAULIC, CRAWLER MOUNTED - RENTAL"
+,,WR3805C,"LOADERS, FRONT END - RENTALS"
+,,WR3805D,EARTH AND ROCK HAULING TRUCKS AND TRAILERS - RENTAL
+,,WR3810,CRANES AND CRANE SHOVELS - RENTAL
+,,WR3825,ROAD CLEARING AND CLEANING EQUIPMENT - RENTALS
+,,WR3830,TRUCK AND TRACTOR ATTACHMENTS - RENTAL
+,,WR3895,MISCELLANEOUS CONSTRUCTION EQUIPMENT - RENTAL
+,,WR3910,CONVEYORS - RENTAL
+,,WR3920,MATERIALS HANDLING EQUIPMENT/NON SELF PROPELLED - RENTAL
+,,WR3930,"WAREHOUSE TRUCKS AND TRACTORS, SELF-PROPELLED - RENTAL"
+,,WR3930A,"TRUCK, FORKLIFT - RENTAL"
+,,WR3930AA,"TRUCK, FORKLIFT, ELECTRIC, NARROW AISLE - RENTAL"
+,,WR3950,"WINCHES, HOISTS, CRANES, AND DERRICKS - RENTAL"
+,,WR3960,ELEVATORS AND ESCALATORS - RENTAL
+,,WR3990,"MATERIALS HANDLING EQUIPMENT, MISCELLANEOUS - RENTAL"
+,,WR4110,REFRIGERATION EQUIPMENT - RENTAL
+,,WR4120,AIR CONDITIONING EQUIPMENT - RENTAL
+,,WR4130,REFRIGERATION AND AIR CONDITIONING COMPONENTS - RENTAL
+,,WR4140,"FANS, AIR CIRCULATORS, AND BLOWER EQUIPMENT - RENTAL"
+,,WR4210,FIREFIGHTING EQUIPMENT - RENTAL
+,,WR4310,COMPRESSORS AND VACUUM PUMPS - RENTAL
+,,WR4320,POWER AND HAND PUMPS - RENTAL
+,,WR4410,INDUSTRIAL BOILERS - RENTAL
+,,WR4410A,"BOILERS, PORTABLE, RENTAL"
+,,WR4460,AIR PURIFICATION EQUIPMENT - RENTAL
+,,WR4510,PLUMBING FIXTURES AND ACCESSORIES - RENTAL
+,,WR4510A,"TOILET, ELECTRIC/GAS, SANITATION - RENTAL"
+,,WR4510AA,"PORTABLE TOILETS, RENTAL"
+,,WR4520,SPACE HEATING EQUIPMENT AND DOMESTIC WATER HEATERS - RENTAL
+,,WR4520A,"HEATERS, SPACE, ELECTRIC, AIR, RENTAL"
+,,WR4520AB,"HEATERS, GAS OR OIL, RENTALS"
+,,WR4530,FUEL BURNING EQUIPMENT UNITS - RENTAL
+,,WR4540,"PLUMBING, HEATING AND SANITATION EQUIPMENT, MISCELLANEOUS -     RENTAL"
+,,WR4610,WATER PURIFICATION EQUIPMENT - RENTAL
+,,WR4910,MOTOR VEHICLE MAINTENANCE AND REPAIR SHOP SPECIALIZED EQUIPMENT - RENTAL
+,,WR4930,LUBRICATION AND FUEL DISPENSING EQUIPMENT - RENTAL
+,,WR4940,"MAINTENANCE AND REPAIR SHOP SPECIALIZED EQUIPMENT, MISCELLANEOUS - RENTAL"
+,,WR5110,"HAND TOOLS, EDGED, NONPOWERED - RENTAL"
+,,WR5120,"HAND TOOLS, NONEDGED, NONPOWERED - RENTAL"
+,,WR5130,"HAND TOOLS, POWER-DRIVEN - RENTAL"
+,,WR5140,TOOL AND HARDWARE BOXES - RENTAL
+,,WR5210,"MEASURING TOOLS, CRAFTSMEN - RENTAL"
+,,WR5220,INSPECTION GAGES AND PRECISION LAYOUT TOOLS - RENTAL
+,,WR5280,"SETS, KITS, AND OUTFITS OF MEASURING TOOLS - RENTAL"
+,,WR5340,MISCELLANEOUS HARDWARE - RENTAL
+,,WR5410,PREFABRICATED AND PORTABLE BUILDINGS - RENTAL
+,,WR5410A,"BUILDING, PREFABRICATED, PORTABLE OR RELOCATABLE, SCHOOLS AND   CLASSROOMS - RENTAL"
+,,WR5411,RIGID WALL SHELTERS - RENTAL
+,,WR5430,STORAGE TANKS - RENTAL
+,,WR5440,SCAFFOLDING EQUIPMENT AND CONCRETE FORMS - RENTAL
+,,WR5440B,"SCAFFOLDING, RENTALS"
+,,WR5445,PREFABRICATED TOWER STRUCTURES - RENTAL
+,,WR5680,"CONSTRUCTION MATERIAL, MISCELLANEOUS - RENTAL"
+,,WR5805,TELEPHONE AND TELEGRAPH EQUIPMENT - RENT
+,,WR5810,COMMUNICATIONS SECURITY EQUIPMENT AND COMPONENTS - RENTAL
+,,WR5830,"INTERCOMMUNICATIONS AND PUBLIC ADDRESS SYSTEMS, EXCEPT AIRBORNE - RENTAL"
+,,WR5835,SOUND RECORDING AND REPRODUCING EQUIPMENT - RENTAL
+,,WR5836,VIDEO RECORDING AND REPRODUCING EQUIPMENT - RENTAL
+,,WR5845,UNDERWATER SOUND EQUIPMENT - RENTAL
+,,WR5855,"NIGHT VISION EQUIPMENT, EMITTED AND REFLECTED RADIATION - RENTAL"
+,,WR5860,"STIMULATED COHERENT RADIATION DEVICES, COMPONENTS AND           ACCESSORIES - RENTAL"
+,,WR5895,MISCELLANEOUS COMMUNICATIONS EQUIPMENT - RENTAL
+,,WR5930,SWITCHES - RENTAL
+,,WR5975,ELECTRICAL HARDWARE AND SUPPLIES - RENTAL
+,,WR5985,"ANTENNAS, WAVEGUIDES AND RELATED EQUIPMENT - RENTAL"
+,,WR5995,"CABLE, CORD, AND WIRE ASSEMBLIES, COMMUNICATION EQUIPMENT -     RENTAL"
+,,WR5999,Miscellaneous Electrical and Electronic Components - Rental
+,,WR6105,"MOTORS, ELECTRICAL - RENTAL"
+,,WR6115,"GENERATORS AND GENERATOR SETS, ELECTRICAL - RENTAL"
+,,WR6115AA,"GENERATORS, DIESEL AND GASOLINE, EXCEPT MARINE, ARMOURED FIGHTING VEHICLES AND AIRCRAFT - RENTAL"
+,,WR6120,"TRANSFORMERS,DISTRIBUTION AND POWER STATION - RENTAL"
+,,WR6130,"CONVERTERS, ELECTRICAL, NONROTATING - RENTAL (Uniterruptible power supply)"
+,,WR6210,INDOOR AND OUTDOOR ELECTRIC LIGHTING FIXTURES - RENTAL
+,,WR6310,TRAFFIC AND TRANSIT SIGNAL SYSTEMS - RENTAL
+,,WR6515,"MEDICAL AND SURGICAL INSTRUMENTS, EQUIPMENT AND SUPPLIES -      RENTAL"
+,,WR6515A,OXYGEN MEDICAL EQUIPMENT - RENTAL
+,,WR6525,"X-RAY EQUIPMENT AND SUPPLIES, MEDICAL, DENTAL AND VETERINARY -  RENTAL"
+,,WR6530,"HOSPITAL FURNITURE, EQUIPMENT, UTENSILS AND SUPPLIES - RENTAL"
+,,WR6532,HOSPITAL AND SURGICAL CLOTHING AND RELATED SPECIAL PURPOSE ITEMS - RENTAL
+,,WR6625,ELECTRICAL AND ELECTRONIC PROPERTIES MEASURING AND TESTING      INSTRUMENTS - RENTAL
+,,WR6630,CHEMICAL ANALYSIS INSTRUMENTS - RENTAL
+,,WR6630A,"CHROMATOGRAPH, GAS - RENTAL"
+,,WR6635,PHYSICAL PROPERTIES TESTING EQUIPMENT - RENTAL
+,,WR6640,LABORATORY EQUIPMENT AND SUPPLIES - RENTAL
+,,WR6655,Geophyscial Instruments - Rental
+,,WR6655A,OCEANOGRAPHIC INSTRUMENTS - RENTAL
+,,WR6660,METEOROLOGICAL INSTRUMENTS AND APPARATUS - RENTAL
+,,WR6665,Hazard-Detecting Instruments & Apparatus - Rental
+,,WR6670,SCALES AND BALANCES - RENTAL
+,,WR6675,"DRAFTING, SURVEYING AND MAPPING INSTRUMENTS - RENTAL"
+,,WR6675A,SURVEYING EQUIPMENT OR INSTRUMENTS - RENTAL
+,,WR6685,"PRESSURE, TEMPERATURE, AND HUMIDITY MEASURING AND CONTROLLING   INSTRUMENTS - RENTAL"
+,,WR6695,COMBINATION AND MISCELLANEOUS INSTRUMENTS - RENTAL
+,,WR6710,"CAMERAS, MOTION PICTURE - RENTAL"
+,,WR6720,"CAMERAS, STILL PICTURE - RENTAL"
+,,WR6730,PHOTOGRAPHIC PROJECTION EQUIPMENT - RENTAL
+,,WR6740,PHOTOGRAPHIC DEVELOPING AND FINISHING EQUIPMENT - RENTAL
+,,WR6750,PHOTOGRAPHIC SUPPLIES - RENTAL
+,,WR6760,PHOTOGRAPHIC EQUIPMENT AND ACCESSORIES - RENTAL
+,,WR6770,"FILM, PROCESSED - RENTAL"
+,,WR6810A,"DRUM DEPOSITS, FOR CHEMICALS"
+,,WR6830,"GASES, COMPRESSED AND LIQUIFIED - RENTAL"
+,,WR6930,OPERATION TRAINING DEVICES - RENTAL
+,,WR7010,"AUTOMATIC DATA PROCESSING EQUIPMENT, SYSTEM CONFIGURATION-RENTAL"
+,,WR7010AD,"COMPUTERS, DIGITAL SYSTEMS, MICRO - RENTAL"
+,,WR7010DA,"COMPUTER AND TURNKEY SYSTEM, USED - RENT"
+,,WR7020,"ADP CENTRAL PROCESSING UNIT (CPU,COMPUTER) ANALOG - RENT"
+,,WR7021,"ADP CENTRAL PROCESSING UNIT (CPU,COMPUTER) DIGITAL - RENT"
+,,WR7022,"ADP CENTRAL PROCESSING UNIT (CPU,COMPUTER) HYBRID - RENT"
+,,WR7025,ADP INPUT-OUTPUT AND STORAGE DEVICES - RENTAL
+,,WR7025B,"PRINTERS, PAGE, OTHER (ION, ELECTROSTATIC, ETC.) - RENT"
+,,WR7035AN,PLOTTERS (STAND ALONE) - RENT
+,,WR7105,HOUSEHOLD FURNITURE - RENTAL
+,,WR7125,"CABINETS, LOCKERS, BINS AND SHELVING - RENTAL"
+,,WR7220A,"MATS, SLUSH - RENTAL"
+,,WR7290,"HOUSEHOLD AND COMMERCIAL FURNISHINGS AND APPLIANCES,            MISCELLANEOUS - RENTAL"
+,,WR7460,VISIBLE RECORD EQUIPMENT - RENT
+,,WR7830,RECREATIONAL AND GYMNASTIC EQUIPMENT - RENTAL
+,,WR7910,FLOOR POLISHERS AND VACUUM CLEANING EQUIPMENT - RENTAL
+,,WR7920,"BROOMS, BRUSHES, MOPS AND SPONGES - RENTAL"
+,,WR8120,COMMERCIAL AND INDUSTRIAL GAS CYLINDERS - RENTAL
+,,WR8135,PACKAGING AND PACKING BULK MATERIALS - RENTAL
+,,WR8145,SPECIALIZED SHIPPING AND STORAGE CONTAINERS - RENTAL
+,,WR8340,TENTS AND TARPAULINS - RENTAL
+,,WR8405A,"COVERALLS, OVERALLS, WORK TYPE ONLY, COTTON PLUS COTTON BLENDS - RENTAL"
+,,WR8415,"Clothing, Special Purpose - Rental"
+,,WR8820,"LIVE ANIMALS, NOT RAISED FOR FOOD - RENTAL"
+,,WR8960Z,Beverage Concentrate with Rental Dispensers
+,,WR9905,SIGNS AND IDENTIFICATION PLATES - RENTAL
+,,X111B,Leasing of Office Space
+,,X112A,Conference Space and Facilities
+,,X113A,"Leasing of Hotel, Restaurant Buildings etc."
+,,X130A,Leasing of Educational Buildings
+,,X170A,Leasing of  Warehouses
+,,X190A,Leasing of Other Buildings
+,,X193A,Leasing of Public Entertainment Buildings

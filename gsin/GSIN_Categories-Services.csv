@@ -1,0 +1,861 @@
+CCS,CCS,GSIN,GSIN,
+"CCS Group - ""L1 GSIN""",CCS Sub-Group,"""L2"" GSIN ",Full GSIN,GSIN Description EN
+A. Research and Development,AA Agriculture,AA41,AA415500,Fisheries (R&D)
+,,,AA415504,Aquaculture (R&D)
+,,AA91,AA910300,Agriculture (R&D)
+,AC Defense Systems,"AC21
+
+
+",AC217760,Missile Technology (R&D)
+,,AC51,AC517728,Conventional Military Weapons/Equipment (R&D)
+,,,AC517748,Military Target Ranges/Systems (R&D)
+,,AC61,AC617732,Electronic Military Countermeasures (Research)
+,,,AC617736,Military Communications (Research)
+,,,AC617768,Radar Defence Systems (R&D)
+,AD Defense - Other,"AD21
+",AD217740,"Military Logistics (Research)
+
+
+
+
+"
+,,AD91,AD917700,Military (R&D)
+,,,AD917712,Biological Defence Technology (R&D)
+,,,AD917716,Camouflage (R&D)
+,,,AD917720,Chemical Defence Technology (R&D)
+,,,AD917724,Combat Stress Effects (R&D)
+,AE Economic Growth and Productivity,AE91,AE913500,Economics (R&D)
+,AG Energy,"AG21
+
+
+
+
+
+",AG214542,"Compressed Natural Gas Fuel Technology (R&D)
+
+
+
+
+
+"
+,,,AG214562,Ethanol Fuel Technology (R&D)
+,,,AG214566,Gas Pipeline Technology (R&D)
+,,,AG214600,Liquefied Natural Gas Fuel Technology (R&D)
+,,AG41,AG414668,Wind Energy Systems (R&D)
+,,AG61,AG614500,Energy
+,,AG91,AG914510,Boiler Technology (R&D)
+,,,AG914538,Cogeneration Technology (R&D)
+,,,AG914558,Energy Efficiency Technology (R&D)
+,AH Environmental Protection,"AH11
+
+
+
+
+",AH115032,"Environmental Assessment (R&D)
+
+
+"
+,,,AH115036,Environmental Standards (Research)
+,,AH21,AH215000,"Environmental Sciences: Air, Water Pollution and other (R&D)"
+,,,AH215020,Air Quality (Research)
+,,,AH215024,Atmospheric Pollutants (Research)
+,,AH91,AH910222,Environmental Impact Study (R&D)
+,AJ General Science and Technology,"AJ11
+
+
+
+
+
+
+
+",AJ110224,"Ergonomic Study (R&D)
+
+
+
+
+
+"
+,,,AJ110700,Biology (R&D)
+,,,AJ110724,Biochemistry (R&D)
+,,,AJ111000,Chemistry (R&D)
+,,,AJ111140,Trace Element Chemistry (R&D)
+,,,AJ112000,Engineering (R&D)
+,,,AJ119000,Physics (R&D)
+,,,AJ119004,Acoustical Analysis/Technology (R&D)
+,,,AJ119036,Electro-Optics Technology (R&D)
+,,,AJ119040,Electromagnetic Technology (R&D)
+,,,AJ119064,Laser Technology (R&D)
+,,,AJ119084,Radiometric Technology (R&D)
+,,AJ21,AJ212500,Computer Science (R&D)
+,,,AJ212512,Communications Network Hardware (R&D)
+,,,AJ212516,Communications Network Software (R&D)
+,,,AJ212528,Computer Systems Security (R&D)
+,,,AJ212540,Expert Systems Development (R&D)
+,,,AJ212552,Image Enhancement Analysis Technology (R&D)
+,,,AJ212568,Pattern/Optical Recognition Technology (R&D)
+,,AJ31,AJ311500,Climatology (R&D)
+,,AJ41,AJ412000,Communications (R&D)
+,,,AJ412008,Antenna Technology (R&D)
+,,,AJ412040,Infrared Technology (R&D)
+,,,AJ412048,Mobile Radio Technology (R&D)
+,,,AJ412060,Radar Technology (R&D)
+,,,AJ412068,Satellite Communications Technology
+,,,AJ412072,Satellite Navigation Technology (R&D)
+,,,AJ412100,Ultra Violet (UV) Technology (R&D)
+,,AJ71,AJ716500,Humanities and Social Sciences (R&D)
+,,,AJ716650,Historical Research (R&D)
+,,AJ91,AJ914000,Electronics (R&D)
+,AK Housing,AK11,AK117000,Materials/Products (R&D)
+,AN Medical,AN11,AN117500,Medical (R&D)
+,,AN41,AN417668,Vaccines (R&D)
+,AP Natural Resources,AP21,AP216000,Forestry (R&D)
+,,AP31,AP313000,Earth Sciences (R&D)
+,,,AP313076,Gravity Surveys
+,,AP51,AP518500,Oceanography (R&D)
+,,,AP518588,Sonar Technology (R&D)
+,AR Space,AR11,AR110432,Microgravity Processing Technology
+,,AR21,AR210440,Rocket Payload Instrumentation (R&D)
+,,,AR210444,Satellite Antenna Design and Development (R&D)
+,,,AR210480,Spacecraft Instrumentation Development (R&D)
+,,AR41,AR410476,Spacecraft Ground Control Technology
+,,AR91,AR910400,Astronautics (R&D)
+,AS Transportation - Modal,"AS21
+
+",AS219528,All Terrain Vehicles (R&D)
+,,,AS219652,Vehicle Performance Measurement (Research)
+,,AS31,AS319620,Railway Locomotion Technology (R&D)
+,,AS41,AS419584,Marine Vessel Propulsion (Research)
+,,,AS419632,Shipboard Electronics (R&D)
+,,AS91,AS918564,Remote Control Submersible Vehicle (R&D)
+,AT Transportation - General,AT31,AT319560,Integrated Navigation Systems (R&D)
+,,AT41,AT419628,Road Vehicle Safety (Research)
+,,AT61,AT619624,Road Vehicle Regulations (Research)
+,,AT91,AT919500,Transportation (R&D)
+,AV Mining Activities,AV71,AV718000,Mining and Metallurgy
+,AZ Other Research and Development,AZ11,AZ110111,Scientific Data Collection - Field (R&D)
+,,,AZ110112,Scientific Data Collection - Other Than Field (R&D)
+,,,AZ110114,Real Time Analysis: Science and Technology Related (R&D)
+,,,AZ110134,"Equipment/Machinery-Design, Development, Modification: Science and Technology Related (R&D)"
+,,,AZ110136,"Measuring Instruments-Design, Development, Modification: Science and Technology Related (R&D)"
+,,,AZ110140,"Product/Material - Design, Development, Formulation, Modification: Science and Technology Related (R&D)"
+,,,AZ110172,Forecasting Models: Science and Technology Related (R&D)
+,,,AZ110174,Mathematical Models/Algorithms: Science and Technology Related (R&D)
+,,,AZ110176,Process Simulation Models: Science and Technology Related (R&D)
+,,,AZ110178,Functional Simulation Modelling : Science and Technology Related (R&D)
+,,,AZ110210,Research Project Management Services (R&D)
+,,,AZ110252,System Requirements Definition: Science and Technology Related (R&D)
+,,,AZ110254,"System Design, Development and Testing: Science and Technology Related (R&D)"
+B. Special Studies and Analysis - not R&D,B000 Chemical/Biological Studies and Analyses ,B000,B000A,"Chemical/Biological Studies and Analyses, Military"
+,B002 Animal and fisheries studies,B002,B002A,Animal and Fisheries Studies
+,B100 Air Quality Analyses ,B100,B100A,Air Quality Analyses
+,B101 Environmental Studies Development of Environmental Impact Statements and Assessments ,B101,B101A,Environmental Impact Studies
+,,,B101B,Environmental Studies - Construction Sites
+,B102 Soil Studies ,B102,B102A,Soil Studies
+,B103 Water Quality Studies ,B103,B103A,Water Quality Studies
+,B109 Other Environmental Studies ,B109,B109A,Other Environmental Studies
+,B200 Geological Studies ,B200,B200A,Rock Core Drilling and Sampling
+,,,B200B,Geological Studies
+,B201 Geophysical Studies ,B201,B201A,Geophysical Studies
+,B202 Geotechnical Studies ,B202,B202A,Geotechnical Studies - Licensed Engineers
+,B204 Seismological Studies ,B204,B204A,Seismological Studies
+,B206 Energy Studies ,B206,B206A,Energy Studies including Federal Buildings Initiative
+,,,B206B,Energy Evaluations of Buildings
+,B208 Housing and Community Development Studies (incl. Urban/Town Planning Studies) ,B208,B208B,Environmental Planning and Control
+,,,B208BB,Consulting Services - Energy Conservation Systems
+,B219 Other Engineering Studies ,B219,B219A,Other Engineering Studies
+,B301 Data Analyses (other than scientific) ,B301,B301A,Data Analysis - Performance of a Survey
+,B303 Mathematical/Statistical Analyses ,B303,B303A,Systems and Statistical Analysis
+,B304 Regulatory Studies ,B304,B304A,Regulatory Studies
+,B308 Accounting/Financial Management Studies ,B308,B308A,Accounting and Financial Management Studies
+,B311 Organization/Administrative/Personnel Studies ,B311,B311B,Alternative Work Environment Studies
+,B314 Acquisition Policy/Procedures Studies ,B314,B314A,Valuation Policies and Procedures
+,B329 Other Administrative Support Studies ,B329,B329A,Business Services / Modelling and Analysis
+,,,B329B,Advisory Support Services / Natural resources efficiency
+,B400 Aeronautic/Space Studies,B400,B400A,Space Policy Studies
+,B500 Archeological/Paleontological Studies ,B500,B500A,Archaeological/Paleontological Services
+,,,B500B,Archaeological Site Investigations
+,B503 Medical and health studies,B503,B503A,Medical and Health Studies
+,,,B503B,Medical and Health Studies / Modelling and Analysis
+,B506 Economic Studies ,B506,B506D,Economic Studies / Modelling and Analysis
+,B509 Other Studies and Analyses ,B509,B509A,Land Use Studies
+C. Architecture and Engineering Services,C111 Administrative and Service Buildings ,C111,C111A,Architect/Engineer Services - Administration & Service Buildings
+,"C112 Airfield, Communication and Missile Facilities ",C112,C112A,"Architect/Engineer Services - Airfield, Communication and Missile Facilities"
+,C113 Educational Buildings ,C113,C113A,Architect/Engineer Services - Educational Buildings
+,C114 Hospital Buildings ,C114,C114A,Architect/Engineer Services - Hospital Buildings
+,C115 Industrial Buildings ,C115,C115A,Architect/Engineer Services - Industrial Buildings
+,C116 Residential Buildings ,C116,C116A,Architect/Engineer Services - Residential Buildings
+,C117 Warehouse Buildings ,C117,C117A,Architect/Engineer Services - Warehouse Buildings
+,C118 Research and Development Facilities ,C118,C118A,Architect/Engineer Services Research and Development Facilities
+,C119 Other Buildings ,C119,C119A,Architectual Services - Buildings
+,,,C119AH,Architectural Services: Statement of Requirements or Building Programming
+,,,C119B,Design Build Services - Real Property
+,,,C119C,Construction Supervision Services
+,,,C119F,Engineering Services - Buildings
+,C121 Conservation and Development ,C121,C121A,Architectural & Engineering Services - Restoration/Conservation Heritage Building Structures
+,"C122 Highways, Roads, Streets, Bridges and Railways ",C122,C122A,"Architectural & Engineering Services - Highways, Roads, Railways,Bridges and Dams"
+,C123 Electric Power Generation (EPG) ,C123,C123A,Architectural & Engineering Services - Power Generation and Utilities
+,C129 Other Non-Building Structures ,C129,C129A,Architectural & Engineering  Services - Other Non-Building Structures
+,C130 Restoration ,C130,C130A,Architectural & Engineering Services - Restoration/Conservation Heritage Non-Building Structures
+,"C211 Architect - Engineer Services (incl. landscaping, interior layout and designing) ",C211,C211A,Drafting and Design Services
+,,,C211D,Architect and Engineering Services - Buildings
+,,,C211DA,Interior Design Services including Functional Programming
+,,,C211E,Landscape Architecture Services
+,,,C211F,CADD Drafting and Technical Services - Building Systems
+,C212 Engineering Drafting Services ,C212,C212B,Architectual & Engineering CADD Services
+,C213 A&E Inspection Services ,C213,C213A,Architectural & Engineering Inspection Services
+,,,C213C,"Construction Materials - Inspection, Testing and Evaluation"
+,C216 Marine Architect and Engineering Services ,C216,C216A,Naval Architecture
+,,,C216AA,Naval Architecture - Consulting Services
+,,,C216AB,Naval Architecture - Design Services
+,,,C216BA,Marine Systems and Engineering
+,,,C216BB,Technical Investigations and Engineering Services (TIES) (Marine)
+,,,C216BC,Marine Management
+,,,C216C,Marine Architect and Engineering Services
+,C219 Other Architect and Engineering Services ,C219,C219A,Engineering Services
+,,,C219AB,Technical Investigation and Engineering Services - Acoustic and Underwater Systems (Hardware/Software)
+,,,C219BE,Engineering and Technical Services - Ammunition Related
+,,,C219BF,"Engineering and Technical Services - Aerospace Related, Military"
+,,,C219BJ,Engineering and Technical Services - Combat Vehicles Related
+,,,C219BK,Engineering Services - Construction Management
+,,,C219C,Engineering Services
+,,,C219CBA,Energy Engineering: Building Energy Conservation
+,,,C219CBI,Energy Engineering: Energy use Management
+,,,C219CJ,Engineering Services: Quantity Survey/Cost Estimating
+,,,C219D,Other Architectural and Engineering Services - Real Property
+,,,C219DA,Environmental Engineering Services - Real Property
+D. Information Processing and Related Telecommunications Services,D301 ADP Facility Operation and Maintenance Services ,D301,D301A,Computer and Data Processing Services
+,,,D301B,Data Centre Services
+,,,D301BB0,Cloud Technology
+,,,D301BBM,"Facilities Management Services, Large Scale"
+,,,D301BBN,"Facilities Management Services, Local Area Network"
+,,,D301C,"Computer Services, Not Elsewhere Specified"
+,,,D301CD,Disaster Recovery Services
+,,,D301D,Facilities Operation and Outsourcing Services
+,D302 OADP Systems Development Services ,D302,D302A,Informatics Professional Services
+,,,D302AAH,"Informatics Professional and Consulting Services - Maintenance Operations, Support"
+,,,D302AAI,"Informatics, Professional and Consulting Services - Network Planning, Design, Implementation, Management, Etc."
+,,,D302AAJ,"Informatics Professional and Consulting Services, Requirements, Analysis, Feasibility Studies"
+,,,D302AAP,"Informatics Professional and Consulting Services, Software Development and Implementation"
+,,,D302AAR,"Informatics Professional and Consulting Services, Systems Management, Project Management, EDP Management Consulting"
+,,,D302AAS,"Professional Special Services, EDP, Not Elsewhere Specified"
+,,,D302D,Multimedia Services
+,D303 ADP Data Entry Services ,D303,D303AA,Data Entry Services
+,D304 ADP Telecommunications and Transmission Services,D304,D304A,Data Transmission Service
+,D307 Automated Information System Design and Integration Services ,D307,D307A,Systems Integration of Informatics Commodities and Services
+,,,D307AB,Informatics Systems Integration
+,D308 Programming Services ,D308,D308A,Programming Services
+,D309 Information and Data Broadcasting or Data Distribution Services ,D309,D309A,Radio and Television Towers and Systems
+,,,D309BB,Consulting Services Office Communications Systems-Systems
+,D311 ADP Data Conversion Services ,D311,D311A,Data Conversion Services
+,D312 ADP Optical Scanning Services ,D312,D312A,Optical Scanning Services
+,D315 Digitizing Services (Includes cartographic and geographic information) ,D315,D315A,Digitizing Services using Graphical Information Systems
+,D316 Telecommunications Network Management Services ,D316,D316A,Radio Television Services
+,,,D316AB,Radio Broadcasting Services
+,,,D316B,Telecommunications Network Services
+,"D317 Automated News Services, Data Services, or Other Information Services. Buying data (the electronic equivalent of books, periodicals, newspapers, etc.) ",D317,D317B,"Information Retrieval Services, Database"
+,,,D317C,Electronic Mail Services
+,,,D317D,Automated News Services
+,,,D317E,Information Products
+,,,D317EA,Training Subscription
+,,,D317EB,Web-Based Training
+,"D399 Other ADP and Telecommunications Services (incl. data storage on tapes, Compact Disk (CD), etc. ",D399,D399A,Miscellaneous Communications Services
+,,,D399AA,Other Telecommunications Services
+,,,D399AB,"Professional Services, Telecommunications"
+,,,D399B,Telecommunications - Voice Service
+,,,D399BB,Telecommunications - Satellite Services
+,,,D399BC,Telecommuncations - Teleconferencing
+,,,D399BD,Telecommunications - Video Conferencing
+,,,D399BE,Telecommunications - Voice Messaging
+,,,D399C,CD-Rom Services
+,,,D399D,Micrographic Services
+E - Environmental Services ,E101 Air Quality Support Services ,E101,E101A,Air Quality Support Services
+,E103 Water Quality Support Services ,E103,E103A,Water Quality Support Services
+,E107 Hazardous Substance Analysis ,E107,E107A,Hazardous Substance Analysis - Building Related
+,"E108 Hazardous Substance Removal, Cleanup, and Disposal Services and Operational Support ",E108,E108A,Asbestos Removal Services
+,,,E108C,Hazardous Chemicals Removal
+,,,E108CA,Hazardous Chemical Waste Disposal Services
+,,,E108D,Hazardous Substance Removal and Disposal -Building Related
+,,,E108E,Medical Waste Disposal Services
+,,,E108F,Northern Contaminated Site Environmental Clean-up Work/Services
+,E109 Leaking Underground Storage Tank Support Services ,E109,E109A,Leaking Underground Storage Tanks
+,"E110 Industrial Investigations, Surveys and Technical Support for Multiple Pollutants ",E110,E110A,Environmental Site Investigation
+,"E111 Oil Spill Response including Cleanup, Removal, Disposal and Operational Support ",E111,E111A,Oil Spill Collection
+,,,E111B,Oil Spill Response
+,E199 Other Environmental Services ,E199,E199A,Waste Recycling Services
+,,,E199AB,Hazardous Waste Recycling - Real Property
+,,,E199AC,Non-Hazardous Waste Recycling - Real Property
+,,,E199B,Wildlife Control (Airports)
+,,,E199BB,Wildlife Control Services (Airports) Bird Control
+,,,E199C,Explosive Ordnance Disposal Services
+,,,E199D,Environmental Services
+,,,E199H,Environmental Professional Consulting Services - Real Property Related
+F. Natural Resources and Conservation Services,F003 Forest Tree Planting Services ,F003,F003A,Tree Planting Services for Land Reclamation
+,F006 Crop Services (incl. Seed Collection and Production Services) ,F006,F006D,"Crop Harvesting, Not Elsewhere Specified"
+,,,F006E,Crop Services
+,F008 Tree Breeding Services (incl. ornamental shrub) ,F008,F008A,Ornamental Shrub and Tree Service
+,F010 Other Range/Forest Improvements Services (non-construction) ,F010,F010A,Forestry Services - Engineering
+,,,F010B,"Forestry Services, Not Elsewhere Specified"
+,,,F010BA,"Forestry Services - Pruning, Felling, Seeding, ETC."
+,,,F010C,Diseased Tree Surgery or Removal
+,,,F010D,"Agricultural Services, Not Elsewhere Specified"
+,F011 Pesticides /Insecticides Support Services ,F011,F011A,Pesticides and Insecticides Support Services
+,F020 Other Wildlife Management Services ,F020,F020A,Animal Control Services - Trap and Remove Animals From Populated Areas
+,F021 Veterinary/Animal Care Services (incl. Livestock Services) ,F021,F021A,Veterinary Services
+,,,F021B,Livestock Services Except Veterinary
+,F030 Fisheries Resources Management Services  ,F030,F030A,Fisheries Resources Management Services
+,F059 Other Natural Resources and Conservation Services ,F059,F059A,Other Natural Resource and Conservation Services
+G. Health and Social Services,G001 Health Care ,G001,G001A,Nursing Care Services
+,,,G001B,Hospital Care Services
+,,,G001C,Pharmaceutical Services
+,G009 Other Health Services ,G009,G009A,Dental Services
+,,,G009B,Optical Services
+,,,G009D,"Health and Allied Services, Not Elsewhere Specified"
+,,,G009DA,Employee Assistance Programs
+,,,G009E,Medical/Dental Clinic Services
+,,,G009F,Medical/Dental Laboratory Services
+,,,G009G,Health and Welfare Services
+,,,G009H,Medical Advisory Services
+,,,G009K,Substance Abuse Counselling
+,,,G009KA,Counselling Services
+,,,G009L,Physiotherapy Services
+,,,G009M,Radiology Services
+,,,G009N,Occupational Therapy
+,,,G009P,Ergonomic Services
+,G100 Care of Remains and/or Funeral Services ,G100,G100A,Funeral Services
+,G101 Chaplain Services ,G101,G101A,Chaplain Services Miscellaneous
+,G102 Recreational Services (incl. Entertainment Services) ,G102,G102A,Recreational Services
+,G103 Social Rehabilitation Services ,G103,G103A,Welfare Services
+,,,G103B,Social Rehabilitation Services for Prisoners
+,,,G103C,Halfway House Services for Mental Health Patients
+,,,G103D,Mental Health Services
+,G199 Other Social Services ,G199,G199A,Patients' Volunteer Service
+,,,G199D,Consular Social Assistance Services
+"H. Quality Control, Testing and Inspection and Technical Representative Services",H1 Quality Control Services ,H100,H100A,Materials Inspection and Quality Assurance
+,,,H100AA,"Inspection, Engineering Services, Marine"
+,,,H100AB,"Materials Inspection and Quality Assurance, Industrial Products"
+,,,H100AC,"Materials Inspection and Quality Assurance, Locomotives and Railway Equipment"
+,,,H100B,Quality Assurance Services
+,,,H100BB,Quality Assurance Project Management
+,,,H100BF,Vehicle Inspection
+,H2 Equipment and Materials Testing ,H200,H200A,Construction Materials Testing
+,,,H200AA,Sonic Testing of Piling and Structural Members
+,,,H200B,Product Testing
+,,,H200BB,"Product Testing, Tempest, Testing Facilities"
+,,,H200C,Equipment and Materials Testing
+,"H3 Inspection Services (incl. commercial testing and Laboratory Services, Except Medical/Dental) ",H300,H300A,"Laboratory, Testing and Inspection Services, Except Medical/Dental"
+,,,H300AD,"Inspection, Sewage Pipe"
+,,,H300B,Analytical Chemistry
+,,,H300C,Commercial Testing Laboratory Services
+,,,H300E,Construction Inspection Services
+,,,H300F,"Heating and Cooling Plant, Inspection Services"
+,"H9 Other Quality Control, Testing, Inspection and Technical Representative Services ",H900,H900A,"Other Construction Quality Control, Testing, Inspect. and Tech. Services"
+"J. Maintenance, Repair, Modification, Rebuilding and Installation of Equipment","JO Maintenance, Repair, Modification, Rebuilding and Installation of Goods/Equipment; includes as examples:
+ 1. Textile Finishing, Dying and Printing
+ 2. Welding services not related to Construction. (see CPC 5155 for Construction Welding) ",-,-,-
+,,J019,J019A,"Maintenance, Repair, Modification, Rebuilding & Installation of Equipment related to Ships"
+K. Custodial Operations and Related Services,"K0 Personal care services (incl. Services such as barber and beauty shop, shoe repairs and tailoring etc.)",K000,K000B,Barber and Beauty Shop Services
+,,,K000E,Tailoring Services
+,,,K000ED,Clothing Alterations and Repairs
+,K100 Custodial - Janitorial Services ,K100,K100A,"Cleaning and Maintenance, Janitorial"
+,,,K100AE,"Cleaning Services, Duct-Exhaust System - Light Fixtures"
+,,,K100AG,"Lighting Maintenance (Washing, Relamping and Repairing Services)"
+,,,K100B,Building Services - Handyman Services
+,K101 Fire Protection Services ,K101,K101A,Fire Protection Services - Buildings
+,K102 Food Services ,K102,K102A,Meals
+,,,K102B,Food Catering Services
+,K104 Trash/Garbage Collection Services - Including Portable Sanitation Services ,K104,K104A,Trash/Garbage Collection Services
+,K105 Guard Services ,K105,K105A,Commercial Security Guard and Related Services
+,,,K105AB,Armoured Car Service
+,,,K105AO,Commissionaire Services
+,K106 Insect and Rodent Control Services ,K106,K106A,Disinfecting and Exterminating
+,,,K106B,Control of Disease Services (Spraying)
+,,,K106C,Mosquito and other Insect Control
+,,,K106CA,Insect/Rodent Control Services
+,K107 Landscaping/Groundskeeping Services ,K107,K107A,Landscaping and Horticultural Services
+,,,K107AB,Fireguard Plowing
+,,,K107C,Lawn and Garden Services
+,,,K107CA,LAWN AND GARDEN SERVICES
+,,,K107CC,Soil Sterilization Services
+,,,K107CD,Fertilizer Spreading Services
+,,,K107CE,Soil Analysis Services
+,,,K107DA,Grounds Maintenance
+,K108 Laundry and Dry Cleaning Services ,K108,K108A,Laundry and Dry Cleaning Services
+,,,K108B,Laundry Services
+,,,K108C,Dry Cleaning Services
+,K111 Carpet Cleaning ,K111,K111A,"Carpet, Drape and Upholstery Cleaning"
+,,,K111B,Carpet Cleaning
+,K112 Interior Plantscaping ,K112,K112A,Interior Plantscaping
+,K113 Snow Removal/Salt Service (also spreading aggregate or other snow meltings material) ,K113,K113A,Snow Plowing and Removal
+,,,K113AB,Snow Removal - Roofs
+,,,K113B,Snow Removal and Salt Service
+,K114 Waste Treatment and Storage ,K114,K114A,Sewage Treatment
+,,,K114B,Septic Tank/Latrine Service
+,K115 Preparation and Disposal of Excess and Surplus Property ,K115,K115A,Preparation & Disposal of Excess & Surplus Movable Assets
+,K199 Other Custodial and Related Services ,K199,K199B,Dwellings and Apartments - Rental
+,,,K199D,"Personal Services, Not Elsewhere Specified"
+,,,K199HA,WINDOW CLEANING SERVICES
+,,,K199I,Other Custodial and Related Services
+,,,K199J,Locksmith Services
+,,,K199K,Chimney Cleaning Services
+,,,K199L,Road Sweeping Services
+,,,K199N,Window Cleaning
+,,,K199Q,Mattress Cleaning
+,,,K199R,Agricultural Cleaning Services
+L. Financial and Related Services,L004 Other Insurance Services ,L004,L004A,Actuarial Services
+,,,L004B,Insurance Associated Risk Management
+,,,L004C,Insurance Services
+,,,L004CV,Claims Administration/Processing (insurance plans)
+,L005 Credit Reporting Services ,L005,L005A,Credit Reporting - Commercial
+,L006 Banking Services ,L006,L006A,Banking and Trust Company Services
+,,,L006B,Guardian Trustee and Bankruptcy Services
+,L007 Debt Collection Services ,L007,L007A,Collection Agency Services
+,L099 Other Financial Services ,L099,L099A,"Financial and Related Services, N.E.S."
+,,,L099B,Financial Management
+,,,L099BG,"National Financial Institutions, Payment Services"
+,,,L099BH,"National Financial Institutions, Deposit Services"
+,,,L099BI,"National Financial Institutions, Banking Services Other Than Payment and Deposit Services"
+,,,L099C,Customs Brokerage Services
+,,,L099D,Financial Accounting Services
+,,,L099F,Claims Processing Services
+,,,L099G,Financial Transaction Processing Services - Electronic Commerce
+,,,L099H,Financial Related Risk Management Services
+,,,L099J,Financial Advisory/Investment Banking Services
+M. Operation of Government Owned Facilities,M110 Administrative Facilities and Service Buildings ,M110,M110A,Property Management - Office Space/Administrative Buildings
+,,M119,M119A,Operation of a Government Service Program
+,"M120 Airfield, Communications, and Missile Facilities ",M120,M120A,Technical Support for Simulator Facility
+,,,M120B,Property Management - Airfield and Communication Facilities
+,M170 Warehouse Buildings ,M170,M170A,Property Management - Warehouse Buildings
+,M180 Research and Development Facilities ,M180,M180A,Property Management - Research and Development Facilities
+,,M181,M181A,Operation and Maintenance Services of a Technical/Scientific Facility
+,,,M181D,OPERATION AND MAINTENANCE SERVICES OF LABORATORY FACILITIES
+,M190 Other Buildings ,M190,M190A,Property and Facilities Management - Buildings
+,,,M190B,Asset Management  Plans (AMP)
+,,,M190D,Operations & Maintenance of a Military Base
+,M240 Utilities ,M240,M240A,Property Management - Utilities Facilities
+,,M242,M242A,Heating and Cooling Plants - Contracting Out Operations
+,M290 Other Non-Building Facilities ,M290,M290B,Parking Facilities
+"R. Professional, Administrative and Management Support Services",R003 Legal Services ,R003,R003A,Legal Services/Litigation/Lawyers
+,R004 Certifications and Accreditations for products and institutions other than Educational Institutions ,R004,R004A,Certifications and Accreditations for Products and Institutions other than Educational Institutions
+,R006 Technical Writing Services ,R006,R006A,Technical Writing Services
+,,,R006AC,"Technical Writing Services, Armament Related Publications"
+,,,R006AH,"Technical Writing Services, Translations, Publications (CFTO)"
+,,,R006D,"Manuals, Standard Operating Procedures for Building Controls and Systems"
+,R007 Systems Engineering Services ,R007,R007A,System Engineering Services
+,"R008 Engineering and Technical Services (incl. Mechanical, Electrical, Chemical, Electronic Engineering) ",R008,R008A,"Technical Engineering and Maintenance Services (TEMS) (Excludes requirements related to armament, R&D and R&O)"
+,,,R008B,Mobility Equipment Minor Engineering Tasks (MEMET) related to vehicular equipment
+,R009 Accounting Services ,R009,R009AD,General Ledger/Bookkeeping System
+,R010 Auditing Services ,R010,R010A,Internal and External Audits (Supply Arrangement PASS)
+,,,R010AF,IT Systems Audit (Supply Arrangement PASS)
+,,,R010AG,Finance & Accounting Services Audits (Supply Arrangement PASS)
+,,,R010AH,Forensic Audits (Supply Arrangement PASS)
+,,,R010B,"Audit Services, Not Elsewhere Specified"
+,,,R010C,Recipient and Contribution Agreement Audit (Supply Arrangement PASS)
+,R012 Patent and Trade Mark Services ,R012,R012A,Patent Services
+,R013 Real Property Appraisals Services ,R013,R013A,Land and Building Appraisal
+,R019 Other Professional Services ,R019,R019A,Budget Control Systems
+,,,R019AB,Professional Services / Program Advisory Services
+,,,R019BF,"Human Resource Services, Business Consulting/Change Management; Project Management Services"
+,,,R019D,Auctioneering Services
+,,,R019E,Business Services
+,,,R019F,Consulting Services
+,,,R019HB,Alternative Dispute Resolution Services
+,,,R019K,Brokerage Services - Disposal of Aircraft and/or Parts
+,,,R019M,Harassment (Investigative Services)
+,,,R019M1,"Investigative Services, Public Servant Disclosure Protection Act (PSDPA)"
+,,,R019N,Arbitration Services
+,,,R019P,Threat and Risk Assessment Services
+,,,R019PA,Threat Risk Assessments - Base Building
+,,,R019Q,Marine Consulting
+,,,R019R,Professional Services / Financial Analysis
+,,,R019S,"Professional Services / Leasing Services (Office, Common Use, and Commercial Letting Services)"
+,,,R019U,Professional Services / Program Research Analysis
+,,,R019UA,Professional Services / Assets Value Assessments
+,,,R019UB,Professional Services / Waste Management Services
+,R101 Expert Witness ,R101,R101A,Expert Witness
+,R102 Weather Reporting/Observation Services ,R102,R102A,Weather Reporting/Observation Services
+,R103 Courier and Messenger Services ,R103,R103A,Courier Service
+,,,R103AA,"Courier Service, Licensed (Station Wagons, Vans, Trucks)"
+,R104 Transcription Services ,R104,R104A,Audio Tape Transcripts/Summary Services - Not Media Related
+,,,R104B,Transcription Services
+,R105 Mailing and Distribution Services (Excluding Post Office Services) ,R105,R105D,Internal Mail Distribution Services
+,R107 Library Services ,R107,R107AA,Book-Binding Services
+,,,R107B,Library Subscriptions
+,R108 Word Processing/Typing Services ,R108,R108A,Word Processing Services
+,R109 Translation and Interpreting Services (Including Sign Language) ,R109,R109A,Language Translation and Interpretation
+,,,R109AB,Proof Reading Services
+,,,R109B,Language Interpretation Services
+,,,R109D,Translation Services
+,R113 Data Collection Services ,R113,R113A,Data Collection Services
+,R114 Logistics Support Services ,R114,R114A,Logistics Support Services Military Aerospace Related
+,"R115 Contract, Procurement, and Acquisition Support Services ",R115,R115A,Materiel Management
+,,,R115G,Fleet Management Services
+,R116 Court Reporting Services ,R116,R116A,Court Reporting Services
+,,,R116AB,Summons Serving Services
+,,,R116B,Verbatim Reporting Services
+,R117 Paper Shredding Services ,R117,R117A,Paper Shredding Service
+,,,R117AA,"Shredding Service, Mobile, (Advisory Committee on Physical Security (ACOPS) Approved"
+,R118 Real Estate Brokerage Services ,R118,R118A,Real Estate Broker Services
+,,,R118AB,Real Estate Advisory Services
+,,,R118C,Rental - Warehouses
+,,,R118DA,Rental of Exhibit Space - Canada
+,,,R118DB,Rental of Exhibit Space - U.S.A.
+,,,R118DC,Rental of Exhibit Space - Europe
+,,,R118DD,"Rental of Exhibit Space - All Others Except Canada, U.S.A. and Europe"
+,R119 Industrial Hygienics ,R119,R119A,Industrial Systems
+,R121 Program Evaluation Studies ,R121,R121C,Employment / Training Program Evaluation
+,R122 Program Management/Support Services ,R122,R122C,Managed Print Services
+,R123 Program Review/Development Services ,R123,R123A,Organization Development
+,,,R123AB,Organization Planning/Analysis
+,,,R123AH,Project Management Services
+,,,R123AQ,Evaluation & Performance Measurement Services
+,R199 Other Administrative and Management Support Services ,R199,R199B,Miscellaneous Business Services
+,,,R199D,Signage Design and Installation
+,,,R199EB,Automotive Washing Services
+,,,R199EG,Sign Printing Contractor Services
+,,,R199EO,Weather Reporting and Observing
+,,,R199F,Administrative Management and Planning Services
+,,,R199H,"Consulting Services, Change Management / Organizational Development (CM/OD)"
+,,,R199HC,Fairness Monitoring Services
+,,,R199HD,Values and Ethics Services
+,,,R199I,"Human Resources Support Services (HRSS): Organization and Classification, Staffing and Compensation"
+,,,R199IP,Personnel Management: Staffing
+,,,R199J,Administrative Services
+,,,R199L,Facilities Operations Service
+,,,R199V,Health and Safety on Construction Sites
+,,,R199W,Cable Plant -Services
+,,,R199X,Adjudication Services
+,R201 Civilian Personnel Recruitment (inc. Services of Employment Agencies),R201,R201A,General Office Help
+,,,R201AA,"Temporary Help Services, General Office Support"
+,,,R201AC,Temporary Help Services - Administrative
+,,,R201BA,Temporary Help Services - Professional and Technical
+,,,R201D,Services of Individuals - Except Consultants
+,,,R201DB,Services of Individuals - Management
+,,,R201DD,Services of Individuals - Environment
+,,,R201DF,Services of Individuals - Mechanical and Electronic Contractors
+,,,R201DG,Services of Individuals - General Labourers and Trade Helpers
+,,,R201DH,Services of Individuals - Truck Drivers
+,,,R201DI,Services of Individuals - Cook (Chef)
+,,,R201E,"Temporary Help, N.E.S."
+,,,R201EA,Temporary Help Services - Industrial
+,,,R201F,"Hiring of Ships' Crews, Pilots, Etc."
+,,,R201FA,"Services Related to Water Transportation - Hiring of Ships' Crews, Pilots, Etc."
+,,,R201H,Executive Search Services
+S. Utilities,S000 Gas Services ,S000,S000A,Gas Services
+,S001 Electric Services ,S001,S001A,Electricity Services
+,"S002 Telephone and/or Communications Services (incl. Telegraph, Telex and Cablevision Service) ",S002,S002A,Telephone Services
+,,,S002AC,Telephone/Station Message Call Detail Recording Services
+,,,S002C,Cablevision Service
+,,,S002E,Communications Services
+,S003 Water Services ,S003,S003A,Water Supply
+,,,S003DA,SEPTIC TANK AND LATRINE SERVICE
+,,,S003E,Water Treatment Services
+,,,S003F,"Boiler, Chemical Water Treatment & Related Services"
+,S099 Other Utilities ,S099,S099A,Sanitary Services
+,,,S099D,Swill Collection and Disposal
+,,,S099EB,Waste Oil Removal Services
+,,,S099EC,Street Washing Services
+,,,S099H,"Specialized Sanitary Services, Not Elsewhere Specified"
+,,,S099I,"Utility Services, Not Elsewhere Specified"
+,,,S099IB,"Tanks, Fuel, Oil Cleaning Services"
+,,,S099J,"Utilities (Electricity, Water, Gas, and Sanitary Services)"
+"T. Communications, Photographic, Mapping, Printing and Publications Services",T000 Communications Studies ,T000,T000A,Communication Telemarketing
+,,,T000B,Strategic Communication Services
+,,,T000C,Communication Planning and Development
+,,,T000D,Communication Evaluation and Assessment
+,,,T000E,Communication Program/Project Implementation
+,,,T000F,Communication Research and Analysis
+,,,T000G,Communication Support Products
+,,,T000GA,Communication Promotional Material (including printing and identification)
+,,,T000H,Communication Writing and Editing Services
+,,,T000I,Communication Projects
+,,,T000K,Telephone Services / Contact Centre Services
+,,,T000L,Communication Project Management Services
+,,,T000M,Information Dissemination Service
+,"T001 Market Research and Public Opinion Services (Formerly Telephone and Field Interview Services incl. Focus testing, Syndicated and attitude Surveys) ",T001,T001A,Public Opinion Research - Quantitative
+,,,T001B,Public Opinion Research - Qualitative
+,,,T001C,Public Opinion Research - Quantitative & Qualitative
+,,,T001D,Public Opinion Research - Syndicated Studies
+,,,T001E,Public Opinion Research - other
+,,,T001G,Communication Marketing Management
+,,,T001GA,Market Research
+,,,T001GB,Marketing Strategy
+,,,T001H,Stakeholder and Citizen Consultation and Engagement Services
+,,,T001HA,Stakeholder and Citizen Consultation and Engagement Services - In Person
+,,,T001HB,Stakeholder and Citizen Consultation and Engagement Services - Online
+,T002 Communications Services (incl. exhibit Services) ,T002,T002A,"Expositions, Design and Fabrication Services"
+,,,T002AA,Fabrication of Exhibits
+,,,T002AB,Custom Exhibit Fabrication
+,,,T002AI,Graphic Production
+,,,T002AJ,Graphic Design and Exhibit Design
+,,,T002AJA,Graphic Design Services
+,,,T002AK,Research and Writing
+,,,T002AP,"Contractor Services for Furniture Rental, Electrical, Plumbing and Decorative Fixture (for Exhibits)"
+,,,T002AQ,Site Management Services for Exhibit
+,,,T002AT,Exhibit Artifacts - Display Objects
+,,,T002B,Internal Communications Programs
+,,,T002C,Travelling Exhibits
+,,,T002D,Corporate Sponsorship
+,,,T002G,Internet Communication Services
+,,,T002GA,Website Communications Consultation and Design
+,,,T002GB,Website Content Maintenance and Updating
+,,,T002GC,Website Analysis and Evaluation
+,,,T002GD,Webcasting
+,,,T002GE,Streaming Audiovisual Services
+,,,T002GF,Internet Based Communications Research
+,,,T002GG,Conversion of Print Material for Internet Application
+,,,T002GJ,Design of Graphics for Internet Application
+,T003 Advertising Services ,T003,T003A,Advertising
+,,,T003AA,Advertising Creative Services
+,,,T003AC,Public Notices Services
+,,,T003AD,Strategic and /or Media Planning Services
+,,,T003AF,Advertising Media Buying/Placement
+,,,T003AG,Advertising Related Services
+,,,T003AH,Public Relations Services Related to Advertising
+,"T004 Public Relations Services (incl. Writing Services, Event Planning and Management, Media Relations, Radio and TV Analysis, Press Services) ",T004,T004A,Public Relations Services Non-Related to Advertising
+,,,T004AB,Public Relations Planning and Development
+,,,T004B,Events Planning and Management
+,,,T004BA,Conference Planning Services
+,,,T004D,Media Analysis
+,,,T004E,Media Relations
+,,,T004F,On-Site Live Entertainment
+,,,T004H,"Writing Services (including, editing, adaptation, etc.)"
+,,,T004I,"Meeting, Conference, Convention and Special Event Management Services"
+,,,T004J,Press Service
+,,,T004JD,Press Release Distribution
+,,,T004K,Media Monitoring Services
+,,,T004KA,Social Media Monitoring
+,,,T004N,Language Adaptation
+,,,T004P,Meeting Facilitator Services
+,,,T004Q,Transcription of Live Events
+,,,T004R,Online News Database
+,T005 Arts/Graphics Services ,T005,T005A,Graphic Design Services - including website
+,T006 Cartography Services ,T006,T006A,Cartography Services
+,T007 Charting Services ,T007,T007A,Marine Cartography Services
+,T008 Film Processing Services ,T008,T008AB,Photo Finishing Services - Laminating
+,T009 Film/Video Tape Production Services ,T009,T009A,Audio Visual Production Services
+,,,T009BAA,"Videodisc Production: All Levels, Computer Programming - Interactive Touch Screen"
+,,,T009BAB,Subtitling
+,,,T009BAC,Satellite Transmission
+,,,T009BH,Video Production Services
+,,,T009BO,Multi-Image Production Services
+,,,T009BP,Audio/Visual Freelance and Project Management Services
+,,,T009BQ,Sound Studio Services
+,,,T009BR,Audio/Visual Language Adaptation/Versioning Services
+,,,T009BU,Audio Visual Services - Interactive/Multimedia including implementation for website use
+,,,T009BV,Film Production: IMAX-OMNIMAX/SHOWSCAN/CIRCLE VISION
+,,,T009BW,Video Production: Video Wall/Laser/Light and Sound
+,,,T009BX,Multi Media (AV and Print and Packaging)
+,,,T009BY,"Film Laboratory, Film Processing, Release Printing"
+,,,T009BZ,Videotape/DVD/BluRay Duplication
+,,,T009CA,Distribution Services: Film and Video
+,,,T009D,Audio and Video Technical Services
+,,,T009E,Audio Recordings/Talking Books
+,T011 Photogrammetry Services ,T011,T011A,Photogrammetric (Line) Map Production
+,,,T011B,Photo-Map Production
+,T012 Aerial Photographic Services ,T012,T012A,Aerial Photography Other Than Survey and Mapping
+,,,T012E,Aerial Photographic Services
+,T013 General Photographic Services - Still ,T013,T013B,General Commercial Photography
+,,,T013BZ,Visual Information System
+,,,T013D,Satellite Data Processing and Related Services
+,T014 Print/Binding Services ,T014,T0149H,"Identification Printing (cards, laminated products) - Non-secure"
+,,,T0149J,Inserting - Direct Mail
+,,,T014A,Publications
+,,,T014AC,"Printing, Web"
+,,,T014AK,"Printing, Offset, Small, up to 19 X 26 - Informational, Process Colour - 2"
+,,,T014C2,Maps - Printing
+,,,T014C4,Cheque Inserts
+,,,T014D1,"Security Printing, Paper Documents (including bonds)"
+,,,T014D10,Security ID Printing Passes/Cards
+,,,T014D11,Security Printing Exam Sheets
+,,,T014D12,Security Printing Warrants
+,,,T014D2,"Security Printing, Passports"
+,,,T014D3,"Security Printing, Spirit / Tobacco Labels"
+,,,T014E5,Promotional Items (Printed Only)
+,,,T014F1,File Folders - Printed
+,,,T014F3,"Folders, Kit"
+,,,T014G1,"Decals, Printed"
+,,,T014G2,Tags
+,,,T014G3,"Labels, Printed"
+,,,T014H14,Forms Flat Video Jacket Inserts
+,,,T014H15,Flat Printing  / Loose leaf Printing
+,,,T014H2,"Forms, Flat, Calling Cards"
+,,,T014H5,Flat Printing
+,,,T014H6,Forms Flat Telephone Pads Etc.
+,,,T014H7,Forms Flat Business
+,,,T014H8,Forms Flat Complimentary Cards
+,,,T014JK,Multipart Forms
+,,,T014KA,"Forms, Continuous"
+,,,T014L5,Dividers - Printed
+,,,T014N1,Graphic Design and Production
+,,,T014N1R,"Typesetting, Composition - Regional"
+,,,T014N3,Camera-Ready Art
+,,,T014P,Micrographic Services (Including Microfilming)
+,,,T014Q10,Offset Printing and Variable Imaging
+,,,T014Q4,Electronic Printing Direct Mail
+,,,T014Q5,Electronic Printing Cheques
+,,,T014Q8,Electronic Printing on Demand
+,,,T014Q9,Database/Variable Imaging
+,,,T014QB,Electronic Publishing
+,,,T014R1C,"Calligraphy, Design and Artwork"
+,,,T014R1N,"Writing (Copy Writing, Tech Writing, Editorial, Translation Manual, Musicology)"
+,,,T014R4A,Negatives
+,,,T014R4C,Forms Management
+,,,T014RB,Forms Design
+,,,T014SR,Printing of Envelopes
+,,,T014U,"Addressing, Distribution and Mailing Lists Management"
+,,,T014V0A,White Printing
+,,,T014V0C,"Binders, Printed"
+,,,T014V1,"Alternate Format Printing (includes Braille, Large Print and Tactile Graphics)"
+,,,T014V8A,Copying Services
+,T015 Reproduction Services ,T015,T015AA,Photocopying Services
+,,,T015AC,Blue Printing and Engineering Drawing Reproduction
+,T016 Topography Services ,T016,T016B,"Mapping Services, N.E.S."
+,,,T016CA,Map Production: Control Survey Support for Mapping
+,,,T016CB,Map Production: Aerial Triangulation and Numerical Adjustment for Mapping
+,,,T016CC,"Map Production: Photogrammetric Mapping and Revision Large Scale 1:500 to 1:10,000"
+,,,T016CE,Map Production: Photomapping
+,,,T016CF,Map Production: Orthophotomapping
+,,,T016CG,Map Production: Digital Mapping
+,,,T016D,Map Production: Photogrammetric and Cartographic Reproduction
+,,,T016DA,Map Production: Reprographic Digitizing
+,,,T016DB,Map Production: Data Structuring
+,,,T016E,Aeromagnetic Survey F.W. for Mapping
+,,,T016F,Aeromagnetic Survey Services: R.W. for Mapping
+,,,T016G,Electromagnetic Survey Services: F.W. for Mapping
+,,,T016H,Electromagnetic Survey Services: R.W. for Mapping
+,,,T016I,Gradiometric Survey Services: F.W. for Mapping
+,,,T016K,Radiometric Survey Services: F.W. for Mapping
+,,,T016L,Radiometric Survey Services: R.W. for Mapping
+,,,T016M,VLF/Electromagnetic Survey Services: F.W. for Mapping
+,,,T016O,Topography Services
+,,,T016P,Airborne Geophysical Surveys Specialty Commercial Air Services
+,T018 Audio/Visual Services ,T018,T018A,Archival Services: Preparation Cataloguing and Preservation
+,,,T018BA,Sound Production and Re-Production
+,,,T018BE,"Tape Duplication Services, Audio"
+,,,T018E,Monitoring
+,"T019 Land Surveys, Cadastral Services (non-construction) ",T019,T019A,Surveying Services
+,,,T019AA,Land Surveying Services
+,,,T019AB,Geophysical Surveying Services
+,,,T019B,Thermovision and Thermographic Surveys
+,,,T019C,Geodetic Surveying Services
+,,,T019CC,Geodetic Surveying Services: Global Positioning System-Positional Control (3D) High Accuracy
+,,,T019D,"Survey Services, Interior and Exterior"
+,,,T019E,Surveying and Mapping Services
+,"T099 Other Communication, Photographic, Mapping, Printing and Publication Services ",T099,T099A,"Publishing, Co-Publishing and Support Services - Paper and Electronic Format"
+,,,T099AA,Co-Publishing of Books
+,,,T099AB,Publishing Support Services
+,,,T099C,Desk Top Publishing Services
+,,,T099D,Newswire Services
+,,,T099E,"Surveys, Not Elsewhere Specified"
+,,,T099G,Restoration of Works of Art
+,,,T099H,"Communication Publications - Ordering, Warehousing and Distribution"
+,,,T099J,Document Management and Printing
+U. Education and Training Services,U001 Lectures For Training ,U001,U001A,Seminars
+,,,U001C,Negotiating Skills Training Courses
+,,,U001M,Problem Solving/Decision Making Training Courses
+,,,U001T,Time Management Training Courses
+,,,U001V,Quality Assurance Training Courses
+,U002 Personnel Testing ,U002,U002C,Vocational and Psychometric Testing
+,U003 Reserve Training (Military) ,U003,U003A,Reserve Training - Military
+,U004 Scientific and Management Education ,U004,U004A,Management Training
+,"U005 Tuition, Registration, and Membership Fees ",U005,U005B,Corporate Membership Subscription Fees
+,U006 Vocational/Technical ,U006,U006A,Secretarial and Stenographic Courses
+,,,U006B,COMMUNITY COLLEGES
+,,,U006C,Technical / Vocational Training
+,U008 Training/Curriculum Development ,U008,U008B,Evaluation Design (Training)
+,,,U008C,Training Design
+,,,U008D,Conduct of Training
+,,,U008F,Training Analysis and Design Courses
+,,,U008G,Conduct Training for Instructors Courses
+,,,U008N,Training and Curriculum Development
+,,,U008P,End-to-End Learning Services (Excludes COTS Training)
+,U009 Informatics Training ,U009,U009A,EDP Training
+,,,U009AA,Educational Services - ADP Training
+,,,U009B,Computer Assisted Learning
+,,,U009E,Informatics Training
+,U010 Certifications and Accreditations for Educational Institutions ,U010,U010P,Certification and Accreditation - Emergent Care Training
+,,,U010Q,Certification and Accreditation-Medical Training
+,U099 Other Education and Training Services ,U099,U099A,Business Training
+,,,U099AA,Educational Services - Business Training
+,,,U099AB,Cross-Cultural Training
+,,,U099BA,"Pilot Training Services, Aircraft"
+,,,U099BB,Driver Training
+,,,U099BC,Firearm Training
+,,,U099BE,Airborne Combat Support Training - Fighter and Trainer Aircraft only
+,,,U099BF,Marine Training
+,,,U099BG,Search and Rescue Training
+,,,U099C,"Educational Services, N.E.S."
+,,,U099D,Language Training Services
+,,,U099M,Personal Health Related Training Courses
+,,,U099N,Pre-Retirement Related Training Courses
+,,,U099Q,Marketing Training Courses
+,,,U099S,Safety Training Courses
+,,,U099SA,Health and Safety Consultation and Training
+,,,U099SB,Pest Management Training
+,,,U099SC,Fitness Evaluation and Training
+,,,U099SD,Wilderness Training
+,,,U099T,First Aid Training Courses
+,,,U099U,Career Path Planning Training Courses
+"V. Transportation, Travel and Relocation Services",V001 Motor Freight ,V001,V001A,Freight and Cargo Services
+,,,V001AA,"Freight and Cargo Services, Including Marshalling, Packaging, Crating and Storage and Forwarding Services"
+,,,V001B,Trucking
+,,,V001BA,"Movers, Furniture and Office Equipment and Storage"
+,,,V001C,"Freight and Cargo Handling Services, Not Elsewhere Specified"
+,V002 Rail Freight ,V002,V002A,Rail
+,V005 Motor Passenger Service ,V005,V005A,"Motor Passengers, Mail and Merchandise Transportation Service"
+,V010 Taxicab Services ,V010,V010A,Taxi Services
+,,,V010AA,Taxi Passenger Service
+,V100 Vessel Freight ,V100,V100B,Water Transportation
+,V101 Marine Charter for Things ,V101,V101AA,Vessel Charter
+,V102 Marine Passenger Service ,V102,V102A,Operation of Ferries
+,V103 Passenger Marine Charter Service ,V103,V103A,Services Related to Water Transportation
+,,,V103BA,Ship Mooring Services
+,V200 Air Freight ,V200,V200A,Air
+,,,V200B,Air Transportation
+,,,V200C,Air Transportation - Business Travel
+,V201 Air Charter for Things ,V201,V201A,Fixed Wing Aircraft - Airplane Charter
+,,,V201B,Rotary Wing Aircraft - Helicopter Charter
+,,,V201C,Class 9-4:  Fixed Wing International Charter Commercial Air Services
+,,,V201D,Class 9-4: Rotating Wing International Charter Commercial Air Services
+,V202 Air Passenger Service ,V202,V202A,Passenger Service
+,,,V202BA,Limousine Services
+,V203 Passenger Air Charter Service ,V203,V203A,Aircraft and Glider Dry Leases
+,"V204 Specialty air Services including Aerial Fertilization, Spraying and Seeding ",V204,V204A,Air Taxi
+,,,V204D,Express Messenger Service
+,,,V204E,Services Related to Air Transportation
+,,,V204F,Aerial Application and Distribution Services
+,,,V204G,Aerial Control Services
+,,,V204H,Aerial Inspection and Reconnaissance Services
+,,,V204I,Flying Training
+,,,V204IA,Parachute Operations
+,,,V204J,Air Ambulance Services
+,,,V204L,Ground Handling Services
+,,,V204M,"Operation, Maintenance and Servicing of Crown Owned or Leased Aircraft"
+,,,V204N,Air-to-Air Gunnery Towing and Scoring Services
+,V401 Other Transportation Travel and Relocation Services ,V401,V401B,Transportation
+,,,V401C,Bus Services
+,,,V401CA,Bus Passenger Service
+,,,V401CB,"Bus, Shuttle Services"
+,,,V401F,Search and Rescue Operations
+,,,V401I,"Transportation Services, Not Elsewhere Specified"
+,,,V401IB,Vehicle Towing Services
+,,,V401IC,Transportation Service - Armoured Vehicles
+,,,V401ID,Transportation Services - Bush
+,,,V401IE,Transportation Services - Hazardous Wastes
+,,,V401J,Transportation and Charters
+,V403 Other Vehicle Charter for Transportation of Things ,V403,V403A,Charters
+,,,V403B,Transportation Services - Helicopter and Aircraft
+,V501 Vessel Towing Service ,V501,V501A,Towing and Tugboat Services
+,V502 Relocation Services ,V502,V502A,Relocation Services
+,,,V502B,"Hotels, Motels and Commercial Accommodation"
+,,,V502BA,"Hotels, Motels and Boarding Houses"
+,,,V502BAA,"Hotels, Motels and Boarding Houses with Cooking Facilities"
+,,,V502BAB,"Hotels Motels and Boarding Houses, as Detention Centres"
+,,,V502C,"Accommodation and Food Services, N.E.S."
+,,,V502CA,Accommodation and/or Food Support Services
+,V503 Travel Agent Services ,V503,V503A,Tour Guides
+,,,V503B,Travel Management Services
+,V505 Warehousing and Storage Services ,V505,V505A,Storage and Warehousing
+,,,V505B,Packaging and Crating
+,V506 Salvage of Marine Vessels ,V506,V506A,Diving and Salvage Services
+W. Lease or Rental of Equipment,WO Lease or Rental of Equipment ,-,-,-
