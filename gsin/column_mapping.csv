@@ -1,0 +1,5 @@
+,GSIN_code,URL,buyer_contact,buyer_name,closing_date,id,location_of_work,organization,procurement_rules,province_territory_of_work,published_date,selection_criteria,tender_description,title,trade_agreement
+0,Gsins,OriginSystemUrl,"ContactFirstName, ContactLastName, ContactPhone",,CloseDateUtc,rec0BpmdYAozBBdDw,RegionOfDelivery,ab,OpportunityType,Jurisdiction,PostDateUtc,,"LongDescription, ShortDescription",Title,AgreementType
+1,GSIN,URL,"E_DETAIL_2, TELEPHONE",E_DETAIL_2,"CLOSING_DATE,CLOSING_TIME",recLID5dvdkPu2WQU,REGION_DELIVERY,bc,,JURISDICTION,POSTING_DATE,,E_DETAIL_1,E_TITLE,
+2,gsin,reference_number,contact,end_user_entity,date_closing,recOMqZjFAlqSPc9d,region_delivery,federal,tendering_procedure,region_delivery,publication_date,competitive_procurement_strategy,description,title,trade_agreement
+3,,,"Contact Person, Phone Number, Email",,ClosingDate,reclYBwWs976jUm0Q,FOB Point Or Location,nu,,FOB Point Or Location,IssuedDate,,,Description,
